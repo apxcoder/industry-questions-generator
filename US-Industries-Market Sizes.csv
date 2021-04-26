@@ -1,0 +1,941 @@
+Sector,Industry,Industry Name,Companies,Establishments,Employees,Revenue,Payroll,Productivity,Avg Salary,Avg. Hr Rate
+21,211120,Crude petroleum extraction,"4,669","5,386","88,189","145,866,649,000","8,990,096,000",1620%,"101,941",50.97
+21,211130,Natural gas extraction,551,"1,023","36,940","83,867,601,000","3,634,834,000",2310%,"98,398",49.2
+21,213112,Support activities for oil and gas operations,"8,365","10,156","221,148","64,456,806,000","16,480,461,000",390%,"74,522",37.26
+21,213111,Drilling oil and gas wells,"1,649","2,459","70,405","19,041,050,000","5,759,705,000",330%,"81,808",40.9
+21,212112,Bituminous coal underground mining,108,228,"27,906","14,932,604,000","2,313,009,000",650%,"82,886",41.44
+21,212230,"Copper, nickel, lead, and zinc mining",38,61,"13,584","12,633,821,000","979,150,000",1290%,"72,081",36.04
+21,212111,Bituminous coal and lignite surface mining,201,344,"19,738","11,819,488,000","1,608,984,000",730%,"81,517",40.76
+21,212221,Gold ore mining,133,148,"13,560","9,569,166,000","1,281,336,000",750%,"94,494",47.25
+21,212312,Crushed and broken limestone mining and quarrying,566,"1,413","28,665","8,988,284,000","1,569,852,000",570%,"54,765",27.38
+21,212321,Construction sand and gravel mining,"1,337","1,931","20,734","6,286,165,000","1,173,830,000",540%,"56,614",28.31
+21,212210,Iron ore mining,11,18,"4,956","3,463,017,000","412,522,000",840%,"83,237",41.62
+21,212322,Industrial sand mining,101,173,"6,199","2,552,692,000","382,844,000",670%,"61,759",30.88
+21,212313,Crushed and broken granite mining and quarrying,89,282,"5,618","2,356,076,000","319,111,000",740%,"56,802",28.4
+21,212319,Other crushed and broken stone mining and quarrying,270,369,"7,129","2,336,479,000","401,020,000",580%,"56,252",28.13
+21,212391,"Potash, soda, and borate mineral mining",14,16,"2,799","2,144,809,000","243,125,000",880%,"86,861",43.43
+21,212392,Phosphate rock mining,5,9,"1,789","1,582,289,000","131,534,000",1200%,"73,524",36.76
+21,213114,Support activities for metal mining,147,200,"4,830","1,199,864,000","354,081,000",340%,"73,309",36.65
+21,213113,Support activities for coal mining,186,224,"3,865","1,067,765,000","246,808,000",430%,"63,857",31.93
+21,212325,Clay and ceramic and refractory minerals mining,60,84,"2,311","875,384,000","130,891,000",670%,"56,638",28.32
+21,212324,Kaolin and ball clay mining,17,28,"2,138","846,215,000","134,789,000",630%,"63,044",31.52
+21,213115,Support activities for nonmetallic minerals (except fuels) mining,194,207,"2,854","796,907,000","158,900,000",500%,"55,676",27.84
+21,212399,All other nonmetallic mineral mining,111,136,"2,446","775,086,000","144,662,000",540%,"59,142",29.57
+21,212393,Other chemical and fertilizer mineral mining,30,36,"2,507","757,713,000","144,653,000",520%,"57,700",28.85
+21,212222,Silver ore mining,9,10,"1,318","488,412,000","96,904,000",500%,"73,524",36.76
+21,212311,Dimension stone mining and quarrying,211,238,"3,506","484,872,000","128,031,000",380%,"36,518",18.26
+21,212113,Anthracite mining,51,62,822,"259,552,000","44,306,000",590%,"53,900",26.95
+22,221122,Electric power distribution,"1,251","7,943","365,588","328,881,348,000","39,103,154,000",840%,"106,960",53.48
+22,221210,Natural gas distribution,421,"2,550","91,747","100,586,292,000","8,155,351,000",1230%,"88,890",44.45
+22,221112,Fossil fuel electric power generation,236,"1,711","76,058","75,455,040,000","8,192,622,000",920%,"107,715",53.86
+22,221113,Nuclear electric power generation,30,176,"48,521","29,013,550,000","6,063,134,000",480%,"124,959",62.48
+22,221121,Electric bulk power transmission and control,55,273,"15,416","13,771,546,000","1,827,887,000",750%,"118,571",59.29
+22,221310,Water supply and irrigation systems,"3,313","4,108","38,180","11,759,316,000","2,411,157,000",490%,"63,152",31.58
+22,221115,Wind electric power generation,95,454,"4,986","7,762,259,000","510,564,000",1520%,"102,400",51.2
+22,221111,Hydroelectric power generation,139,523,"3,642","3,334,263,000","328,454,000",1020%,"90,185",45.09
+22,221114,Solar electric power generation,151,205,"2,163","1,801,126,000","221,883,000",810%,"102,581",51.29
+22,221320,Sewage treatment facilities,339,634,"6,367","1,524,099,000","337,305,000",450%,"52,977",26.49
+22,221330,Steam and air-conditioning supply,44,125,"2,439","1,311,529,000","221,751,000",590%,"90,919",45.46
+22,221116,Geothermal electric power generation,16,34,"1,214","973,588,000","121,229,000",800%,"99,859",49.93
+22,221117,Biomass electric power generation,73,141,"1,968","905,622,000","163,226,000",550%,"82,940",41.47
+22,221118,Other electric power generation,25,36,95,"20,884,000","9,137,000",230%,"96,179",48.09
+23,236220,Commercial and institutional building construction,"37,892","39,107","580,353","433,009,437,000","43,744,203,000",990%,"75,375",37.69
+23,238220,"Plumbing, heating, and air-conditioning contractors","101,561","103,275","1,020,861","206,208,216,000","60,218,491,000",340%,"58,988",29.49
+23,238210,Electrical contractors and other wiring installation contractors,"72,187","73,907","845,813","171,416,144,000","51,456,683,000",330%,"60,837",30.42
+23,236117,New housing for-sale builders,"16,462","17,123","132,191","148,898,346,000","10,298,600,000",1450%,"77,907",38.95
+23,237310,"Highway, street, and bridge construction","8,876","9,721","322,243","126,575,188,000","23,248,153,000",540%,"72,145",36.07
+23,238910,Site preparation contractors,"35,029","35,417","385,177","97,460,244,000","22,894,974,000",430%,"59,440",29.72
+23,236118,Residential remodelers,"102,398","102,818","341,329","77,626,776,000","14,851,461,000",520%,"43,511",21.76
+23,236115,New single-family housing construction (except for-sale builders),"48,499","48,673","176,059","68,574,751,000","8,530,682,000",800%,"48,454",24.23
+23,237130,Power and communication line and related structures construction,"5,071","6,078","232,861","64,633,459,000","17,195,668,000",380%,"73,845",36.92
+23,238110,Poured concrete foundation and structure contractors,"20,553","20,707","239,062","52,694,411,000","13,122,241,000",400%,"54,891",27.45
+23,238990,All other specialty trade contractors,"34,122","34,543","240,833","52,198,185,000","13,239,472,000",390%,"54,974",27.49
+23,237120,Oil and gas pipeline and related structures construction,"1,876","2,226","211,334","49,691,899,000","15,491,081,000",320%,"73,301",36.65
+23,236116,New multifamily housing construction (except for-sale builders),"3,136","3,200","44,444","46,910,655,000","3,595,548,000",1300%,"80,901",40.45
+23,238310,Drywall and insulation contractors,"17,803","18,359","258,608","45,083,613,000","13,522,558,000",330%,"52,290",26.15
+23,237110,Water and sewer line and related structures construction,"10,636","10,838","150,664","44,333,746,000","9,613,699,000",460%,"63,809",31.9
+23,238160,Roofing contractors,"19,108","19,366","178,559","40,770,160,000","9,145,104,000",450%,"51,216",25.61
+23,238290,Other building equipment contractors,"6,267","7,384","133,279","33,554,219,000","9,855,936,000",340%,"73,950",36.98
+23,238350,Finish carpentry contractors,"29,478","29,697","145,852","27,561,178,000","6,807,059,000",400%,"46,671",23.34
+23,236210,Industrial building construction,"2,985","3,164","71,562","25,454,943,000","4,479,129,000",570%,"62,591",31.3
+23,238320,Painting and wall covering contractors,"35,408","35,484","190,200","25,388,981,000","8,438,133,000",300%,"44,365",22.18
+23,238140,Masonry contractors,"18,207","18,329","141,977","23,560,290,000","6,852,561,000",340%,"48,265",24.13
+23,237990,Other heavy and civil engineering construction,"4,140","4,260","67,148","23,468,831,000","4,902,897,000",480%,"73,016",36.51
+23,238330,Flooring contractors,"15,710","15,925","78,494","18,039,180,000","3,800,490,000",470%,"48,418",24.21
+23,238130,Framing contractors,"11,494","11,516","85,674","16,165,452,000","3,630,233,000",450%,"42,373",21.19
+23,238120,Structural steel and precast concrete contractors,"3,506","3,577","77,366","15,476,984,000","4,663,204,000",330%,"60,275",30.14
+23,238150,Glass and glazing contractors,"5,653","5,816","61,758","14,124,308,000","3,498,088,000",400%,"56,642",28.32
+23,238390,Other building finishing contractors,"6,672","6,774","70,288","10,766,477,000","3,337,260,000",320%,"47,480",23.74
+23,237210,Land subdivision,"4,790","4,893","23,692","9,376,544,000","1,586,225,000",590%,"66,952",33.48
+23,238190,"Other foundation, structure, and building exterior contractors","5,553","5,588","47,061","9,303,708,000","2,641,896,000",350%,"56,138",28.07
+23,238340,Tile and terrazzo contractors,"9,766","9,787","57,235","9,264,998,000","2,687,228,000",340%,"46,951",23.48
+23,238170,Siding contractors,"7,730","7,812","35,070","6,574,724,000","1,466,580,000",450%,"41,819",20.91
+3X,324110,Petroleum refineries,65,148,"66,700","499,142,863,000","8,263,063,000",6040%,"123,884",61.94
+3X,336112,Light truck and utility vehicle manufacturing,43,61,"97,088","198,427,629,000","7,529,993,000",2640%,"77,558",38.78
+3X,325412,Pharmaceutical preparation manufacturing,"1,033","1,297","143,622","153,923,077,000","12,209,760,000",1260%,"85,013",42.51
+3X,336411,Aircraft manufacturing,260,313,"169,105","149,623,023,000","16,679,725,000",900%,"98,635",49.32
+3X,336111,Automobile manufacturing,160,170,"80,798","99,360,904,000","6,564,067,000",1510%,"81,240",40.62
+3X,326199,All other plastics product manufacturing,"5,230","6,185","365,773","94,679,367,000","16,602,433,000",570%,"45,390",22.7
+3X,311611,Animal (except poultry) slaughtering,"1,297","1,372","146,671","89,812,741,000","6,428,770,000",1400%,"43,831",21.92
+3X,325211,Plastics material and resin manufacturing,857,"1,126","73,338","88,438,219,000","6,161,513,000",1440%,"84,015",42.01
+3X,331110,Iron and steel mills and ferroalloy manufacturing,169,292,"84,792","87,557,262,000","6,999,796,000",1250%,"82,553",41.28
+3X,325199,All other basic organic chemical manufacturing,614,842,"62,873","77,194,094,000","5,896,559,000",1310%,"93,785",46.89
+3X,311615,Poultry processing,308,522,"240,067","67,288,433,000","7,828,447,000",860%,"32,609",16.3
+3X,323111,Commercial printing (except screen and books),"16,986","18,203","323,955","66,784,003,000","16,524,149,000",400%,"51,008",25.5
+3X,336390,Other motor vehicle parts manufacturing,"1,284","1,504","150,630","64,500,262,000","7,368,837,000",880%,"48,920",24.46
+3X,325110,Petrochemical manufacturing,27,43,"9,355","54,235,880,000","1,084,309,000",5000%,"115,907",57.95
+3X,311612,Meat processed from carcasses,"1,241","1,404","112,939","53,740,859,000","4,924,198,000",1090%,"43,601",21.8
+3X,334413,Semiconductor and related device manufacturing,737,816,"106,050","51,830,460,000","11,330,551,000",460%,"106,842",53.42
+3X,334511,"Search, detection, navigation, guidance, aeronautical, and nautical system and instrument manufacturing",421,552,"124,780","51,591,093,000","12,402,172,000",420%,"99,392",49.7
+3X,311513,Cheese manufacturing,410,563,"50,542","47,919,821,000","2,762,517,000",1730%,"54,658",27.33
+3X,312230,Tobacco manufacturing,141,166,"13,164","47,546,899,000","908,611,000",5230%,"69,022",34.51
+3X,322211,Corrugated and solid fiber box manufacturing,657,"1,236","84,975","44,943,191,000","5,255,689,000",860%,"61,850",30.93
+3X,325620,Toilet preparation manufacturing,932,988,"50,028","43,444,165,000","3,069,165,000",1420%,"61,349",30.67
+3X,336350,Motor vehicle transmission and power train parts manufacturing,389,473,"75,340","40,635,137,000","4,620,633,000",880%,"61,330",30.67
+3X,339112,Surgical and medical instrument manufacturing,"1,064","1,231","111,429","39,680,612,000","7,743,646,000",510%,"69,494",34.75
+3X,336412,Aircraft engine and engine parts manufacturing,319,415,"68,292","38,874,186,000","5,163,072,000",750%,"75,603",37.8
+3X,336310,Motor vehicle gasoline engine and engine parts manufacturing,710,768,"62,264","38,814,009,000","3,965,457,000",980%,"63,688",31.84
+3X,312111,Soft drink manufacturing,329,549,"55,963","38,046,355,000","3,130,174,000",1220%,"55,933",27.97
+3X,311511,Fluid milk manufacturing,263,441,"52,534","37,268,136,000","3,033,205,000",1230%,"57,738",28.87
+3X,322121,Paper (except newsprint) mills,85,167,"48,615","36,968,156,000","3,522,358,000",1050%,"72,454",36.23
+3X,332710,Machine shops,"17,937","18,217","227,170","36,887,115,000","12,002,582,000",310%,"52,835",26.42
+3X,336370,Motor vehicle metal stamping,599,756,"103,114","36,654,208,000","5,685,922,000",640%,"55,142",27.57
+3X,311224,Soybean and other oilseed processing,102,178,"9,499","35,354,471,000","570,249,000",6200%,"60,033",30.02
+3X,336413,Other aircraft parts and auxiliary equipment manufacturing,762,936,"101,353","35,078,029,000","7,533,898,000",470%,"74,333",37.17
+3X,339113,Surgical appliance and supplies manufacturing,"1,649","1,817","76,954","33,380,701,000","5,617,760,000",590%,"73,002",36.5
+3X,334510,Electromedical and electrotherapeutic apparatus manufacturing,764,863,"82,303","33,025,703,000","6,567,366,000",500%,"79,795",39.9
+3X,333415,Air-conditioning and warm air heating equipment and commercial and industrial refrigeration equipment manufacturing,709,844,"92,158","32,837,612,000","4,582,249,000",720%,"49,722",24.86
+3X,322130,Paperboard mills,62,156,"36,586","32,734,398,000","3,215,993,000",1020%,"87,902",43.95
+3X,311812,Commercial bakeries,"2,772","3,059","116,763","32,242,109,000","5,203,795,000",620%,"44,567",22.28
+3X,332312,Fabricated structural metal manufacturing,"2,955","3,265","101,605","31,934,065,000","5,642,906,000",570%,"55,538",27.77
+3X,311119,Other animal food manufacturing,861,"1,406","27,900","31,930,341,000","1,477,252,000",2160%,"52,948",26.47
+3X,325193,Ethyl alcohol manufacturing,118,207,"11,325","31,754,680,000","772,790,000",4110%,"68,238",34.12
+3X,325414,Biological product (except diagnostic) manufacturing,277,353,"47,906","31,686,987,000","4,350,937,000",730%,"90,822",45.41
+3X,325180,Other basic inorganic chemical manufacturing,371,636,"38,278","31,301,791,000","3,263,546,000",960%,"85,259",42.63
+3X,327320,Ready-mix concrete manufacturing,"2,122","5,773","81,826","31,301,328,000","4,427,575,000",710%,"54,110",27.06
+3X,333120,Construction machinery manufacturing,656,750,"59,455","31,300,793,000","3,383,890,000",920%,"56,915",28.46
+3X,336360,Motor vehicle seating and interior trim manufacturing,303,423,"71,597","30,885,294,000","3,252,150,000",950%,"45,423",22.71
+3X,312120,Breweries,"3,192","3,276","63,225","29,682,113,000","2,850,653,000",1040%,"45,087",22.54
+3X,325510,Paint and coating manufacturing,"1,006","1,206","37,998","27,614,203,000","2,472,555,000",1120%,"65,071",32.54
+3X,321113,Sawmills,"2,545","2,891","72,958","26,076,004,000","3,491,826,000",750%,"47,861",23.93
+3X,336120,Heavy duty truck manufacturing,69,82,"25,220","25,651,665,000","1,611,598,000",1590%,"63,902",31.95
+3X,334220,Radio and television broadcasting and wireless communications equipment manufacturing,660,727,"61,287","25,213,740,000","5,685,938,000",440%,"92,776",46.39
+3X,336611,Ship building and repairing,590,679,"97,083","25,099,590,000","6,249,240,000",400%,"64,370",32.19
+3X,325611,Soap and other detergent manufacturing,616,674,"26,022","24,944,856,000","1,694,905,000",1470%,"65,134",32.57
+3X,333618,Other engine equipment manufacturing,265,324,"37,549","24,910,353,000","2,289,857,000",1090%,"60,983",30.49
+3X,333111,Farm machinery and equipment manufacturing,"1,057","1,145","61,109","24,778,786,000","3,209,884,000",770%,"52,527",26.26
+3X,311421,Fruit and vegetable canning,726,843,"44,898","23,920,885,000","2,312,645,000",1030%,"51,509",25.75
+3X,311919,Other snack food manufacturing,343,411,"37,035","23,447,885,000","1,793,280,000",1310%,"48,421",24.21
+3X,336320,Motor vehicle electrical and electronic equipment manufacturing,564,623,"58,863","23,344,834,000","2,924,602,000",800%,"49,685",24.84
+3X,311111,Dog and cat food manufacturing,307,387,"22,316","23,202,661,000","1,344,960,000",1730%,"60,269",30.13
+3X,332322,Sheet metal work manufacturing,"3,817","4,108","104,797","22,812,951,000","5,373,736,000",420%,"51,278",25.64
+3X,325998,All other miscellaneous chemical product and preparation manufacturing,"1,081","1,270","36,412","22,135,929,000","2,361,031,000",940%,"64,842",32.42
+3X,331420,"Copper rolling, drawing, extruding, and alloying",166,249,"24,457","21,969,509,000","1,412,510,000",1560%,"57,755",28.88
+3X,322220,Paper bag and coated and treated paper manufacturing,585,751,"47,945","21,521,926,000","2,841,491,000",760%,"59,266",29.63
+3X,312130,Wineries,"3,577","3,709","50,589","20,730,744,000","2,659,427,000",780%,"52,569",26.28
+3X,311412,Frozen specialty food manufacturing,425,496,"59,742","20,217,983,000","2,658,617,000",760%,"44,502",22.25
+3X,332721,Precision turned product manufacturing,"3,699","3,814","102,430","19,058,009,000","5,511,905,000",350%,"53,811",26.91
+3X,335220,Major household appliance manufacturing,128,163,"43,216","18,936,670,000","1,993,726,000",950%,"46,134",23.07
+3X,333318,Other commercial and service industry machinery manufacturing,"1,238","1,324","55,328","18,702,108,000","3,318,907,000",560%,"59,986",29.99
+3X,326211,Tire manufacturing (except retreading),83,119,"43,566","18,278,050,000","2,670,789,000",680%,"61,304",30.65
+3X,336414,Guided missile and space vehicle manufacturing,22,40,"39,722","17,965,108,000","4,589,701,000",390%,"115,546",57.77
+3X,334418,Printed circuit assembly (electronic assembly) manufacturing,755,810,"48,686","17,741,728,000","2,677,416,000",660%,"54,994",27.5
+3X,333914,"Measuring, dispensing, and other pumping equipment manufacturing",459,585,"37,850","17,577,180,000","2,588,154,000",680%,"68,379",34.19
+3X,336214,Travel trailer and camper manufacturing,614,743,"51,435","17,216,668,000","2,724,250,000",630%,"52,965",26.48
+3X,311514,"Dry, condensed, and evaporated dairy product manufacturing",127,179,"14,640","17,133,007,000","900,518,000",1900%,"61,511",30.76
+3X,311991,Perishable prepared food manufacturing,749,816,"55,780","16,838,561,000","2,213,070,000",760%,"39,675",19.84
+3X,333999,All other miscellaneous general purpose machinery manufacturing,"1,577","1,662","52,834","16,450,190,000","3,587,772,000",460%,"67,906",33.95
+3X,324191,Petroleum lubricating oil and grease manufacturing,258,322,"12,976","16,130,179,000","1,029,452,000",1570%,"79,335",39.67
+3X,331315,"Aluminum sheet, plate, and foil manufacturing",49,77,"19,190","15,476,274,000","1,390,372,000",1110%,"72,453",36.23
+3X,334516,Analytical laboratory instrument manufacturing,603,682,"44,936","15,428,058,000","3,850,305,000",400%,"85,684",42.84
+3X,311911,Roasted nuts and peanut butter manufacturing,215,256,"19,481","15,323,438,000","930,213,000",1650%,"47,750",23.88
+3X,326113,Unlaminated plastics film and sheet (except packaging) manufacturing,427,523,"31,924","15,267,727,000","1,884,970,000",810%,"59,046",29.52
+3X,336330,Motor vehicle steering and suspension components (except spring) manufacturing,221,261,"36,737","15,169,939,000","1,959,018,000",770%,"53,325",26.66
+3X,325520,Adhesive manufacturing,400,554,"23,001","14,798,510,000","1,618,410,000",910%,"70,363",35.18
+3X,333249,Other industrial machinery manufacturing,"1,830","1,882","52,242","14,737,043,000","3,392,897,000",430%,"64,946",32.47
+3X,325320,Pesticide and other agricultural chemical manufacturing,187,228,"11,945","14,624,805,000","840,654,000",1740%,"70,377",35.19
+3X,332431,Metal can manufacturing,67,186,"17,529","14,603,436,000","1,261,810,000",1160%,"71,984",35.99
+3X,337110,Wood kitchen cabinet and countertop manufacturing,"5,904","5,980","91,227","14,454,458,000","3,523,503,000",410%,"38,623",19.31
+3X,325413,In-vitro diagnostic substance manufacturing,195,242,"28,206","14,443,866,000","2,666,723,000",540%,"94,545",47.27
+3X,336211,Motor vehicle body manufacturing,636,736,"45,971","14,392,513,000","2,304,671,000",620%,"50,133",25.07
+3X,332999,All other miscellaneous fabricated metal product manufacturing,"3,542","3,621","63,800","13,787,163,000","3,234,137,000",430%,"50,692",25.35
+3X,311920,Coffee and tea manufacturing,677,722,"18,615","13,739,882,000","994,278,000",1380%,"53,413",26.71
+3X,311710,Seafood product preparation and packaging,457,552,"32,111","13,728,052,000","1,471,670,000",930%,"45,831",22.92
+3X,327215,Glass product manufacturing made of purchased glass,991,"1,128","51,893","13,514,642,000","2,641,470,000",510%,"50,902",25.45
+3X,332812,"Metal coating, engraving (except jewelry and silverware), and allied services to manufacturers","2,343","2,592","51,221","13,394,933,000","2,453,270,000",550%,"47,896",23.95
+3X,326112,Plastics packaging film and sheet (including laminated) manufacturing,297,394,"32,035","13,181,570,000","1,820,697,000",720%,"56,835",28.42
+3X,324121,Asphalt paving mixture and block manufacturing,473,"1,357","14,659","13,116,457,000","1,003,796,000",1310%,"68,476",34.24
+3X,336510,Railroad rolling stock manufacturing,153,230,"28,474","12,819,247,000","1,870,221,000",690%,"65,682",32.84
+3X,333132,Oil and gas field machinery and equipment manufacturing,506,629,"34,702","12,751,482,000","2,419,892,000",530%,"69,734",34.87
+3X,333611,Turbine and turbine generator set units manufacturing,111,163,"31,677","12,664,242,000","2,526,567,000",500%,"79,760",39.88
+3X,339950,Sign manufacturing,"5,579","5,699","75,195","12,609,839,000","3,653,695,000",350%,"48,590",24.3
+3X,332321,Metal window and door manufacturing,894,"1,045","51,197","12,528,628,000","2,506,296,000",500%,"48,954",24.48
+3X,311999,All other miscellaneous food manufacturing,631,705,"24,619","12,503,932,000","1,291,462,000",970%,"52,458",26.23
+3X,322212,Folding paperboard box manufacturing,302,448,"35,462","12,486,722,000","1,946,488,000",640%,"54,889",27.44
+3X,311352,Confectionery manufacturing from purchased chocolate,"1,063","1,137","38,355","12,425,785,000","1,463,381,000",850%,"38,154",19.08
+3X,327390,Other concrete product manufacturing,"1,573","1,946","53,314","12,389,955,000","2,653,558,000",470%,"49,772",24.89
+3X,337121,Upholstered household furniture manufacturing,970,"1,061","66,575","12,342,189,000","2,393,959,000",520%,"35,959",17.98
+3X,312140,Distilleries,761,783,"11,130","12,320,798,000","694,089,000",1780%,"62,362",31.18
+3X,321911,Wood window and door manufacturing,969,"1,117","52,071","12,212,352,000","2,338,538,000",520%,"44,911",22.46
+3X,311411,"Frozen fruit, juice, and vegetable manufacturing",137,205,"28,691","12,158,201,000","1,301,124,000",930%,"45,350",22.68
+3X,334519,Other measuring and controlling device manufacturing,831,906,"36,338","12,137,095,000","2,784,273,000",440%,"76,622",38.31
+3X,335313,Switchgear and switchboard apparatus manufacturing,412,482,"31,163","12,080,574,000","1,955,783,000",620%,"62,760",31.38
+3X,339999,All other miscellaneous manufacturing,"5,957","5,971","49,132","11,980,964,000","2,381,589,000",500%,"48,473",24.24
+3X,334419,Other electronic component manufacturing,"1,148","1,251","51,643","11,949,455,000","3,042,127,000",390%,"58,907",29.45
+3X,311824,"Dry pasta, dough, and flour mixes manufacturing from purchased flour",356,419,"20,660","11,808,239,000","1,051,258,000",1120%,"50,884",25.44
+3X,332911,Industrial valve manufacturing,383,489,"35,163","11,637,063,000","2,174,044,000",540%,"61,828",30.91
+3X,311211,Flour milling,207,335,"13,074","11,591,008,000","735,652,000",1580%,"56,268",28.13
+3X,311930,Flavoring syrup and concentrate manufacturing,137,154,"7,677","11,559,157,000","498,720,000",2320%,"64,963",32.48
+3X,331318,"Other aluminum rolling, drawing, and extruding",196,261,"28,329","11,513,595,000","1,424,332,000",810%,"50,278",25.14
+3X,325991,Custom compounding of purchased resins,333,406,"19,068","11,499,379,000","1,146,122,000",1000%,"60,107",30.05
+3X,322291,Sanitary paper product manufacturing,96,132,"17,566","11,449,543,000","1,047,846,000",1090%,"59,652",29.83
+3X,331210,Iron and steel pipe and tube manufacturing from purchased steel,178,242,"24,418","11,408,868,000","1,476,678,000",770%,"60,475",30.24
+3X,336340,Motor vehicle brake system manufacturing,143,183,"23,313","11,314,475,000","1,243,196,000",910%,"53,326",26.66
+3X,311942,Spice and extract manufacturing,379,420,"19,872","11,172,088,000","1,255,981,000",890%,"63,204",31.6
+3X,325411,Medicinal and botanical manufacturing,453,492,"27,028","11,154,489,000","1,897,487,000",590%,"70,204",35.1
+3X,324122,Asphalt shingle and coating materials manufacturing,125,216,"10,406","11,080,023,000","750,999,000",1480%,"72,170",36.09
+3X,326160,Plastics bottle manufacturing,195,470,"31,030","11,055,741,000","1,402,344,000",790%,"45,193",22.6
+3X,326111,Plastics bag and pouch manufacturing,270,337,"30,157","11,042,267,000","1,451,093,000",760%,"48,118",24.06
+3X,332119,"Metal crown, closure, and other metal stamping (except automotive)","1,290","1,387","48,817","11,024,698,000","2,541,565,000",430%,"52,063",26.03
+3X,326150,Urethane and other foam product (except polystyrene) manufacturing,447,655,"31,360","10,892,785,000","1,463,738,000",740%,"46,675",23.34
+3X,311821,Cookie and cracker manufacturing,329,376,"30,201","10,869,613,000","1,517,775,000",720%,"50,256",25.13
+3X,326122,Plastics pipe and pipe fitting manufacturing,270,454,"23,172","10,789,257,000","1,130,189,000",950%,"48,774",24.39
+3X,336212,Truck trailer manufacturing,383,434,"36,357","10,705,726,000","1,641,464,000",650%,"45,148",22.57
+3X,332722,"Bolt, nut, screw, rivet, and washer manufacturing",649,773,"34,852","10,685,408,000","2,105,410,000",510%,"60,410",30.21
+3X,334515,Instrument manufacturing for measuring and testing electricity and electrical systems,708,751,"30,104","10,682,751,000","2,525,349,000",420%,"83,887",41.94
+3X,335999,All other miscellaneous electrical equipment and component manufacturing,796,833,"36,004","10,672,185,000","2,634,734,000",410%,"73,179",36.59
+3X,334513,"Instruments and related products manufacturing for measuring, displaying, and controlling industrial process variables",745,811,"32,626","10,470,261,000","2,302,478,000",450%,"70,572",35.29
+3X,311941,"Mayonnaise, dressing, and other prepared sauce manufacturing",310,364,"17,442","10,468,446,000","920,710,000",1140%,"52,787",26.39
+3X,326299,All other rubber product manufacturing,573,672,"29,634","10,357,890,000","1,551,845,000",670%,"52,367",26.18
+3X,335314,Relay and industrial control manufacturing,799,874,"33,319","10,224,112,000","2,178,653,000",470%,"65,388",32.69
+3X,336612,Boat building,818,858,"34,833","10,219,776,000","1,628,536,000",630%,"46,753",23.38
+3X,311340,Nonchocolate confectionery manufacturing,498,523,"24,132","10,139,260,000","1,146,121,000",880%,"47,494",23.75
+3X,331410,Nonferrous metal (except aluminum) smelting and refining,109,127,"7,965","10,134,760,000","551,261,000",1840%,"69,210",34.61
+3X,332912,Fluid power valve and hose fitting manufacturing,292,357,"32,322","10,111,810,000","2,029,492,000",500%,"62,790",31.4
+3X,311230,Breakfast cereal manufacturing,58,85,"13,205","10,072,757,000","823,182,000",1220%,"62,339",31.17
+3X,339920,Sporting and athletic goods manufacturing,"1,567","1,632","36,387","10,040,572,000","1,777,450,000",560%,"48,848",24.42
+3X,314110,Carpet and rug mills,205,254,"28,269","9,935,707,000","1,219,941,000",810%,"43,155",21.58
+3X,333924,"Industrial truck, trailer, and stacker machinery manufacturing",314,335,"25,182","9,903,562,000","1,446,220,000",680%,"57,431",28.72
+3X,331511,Iron foundries,282,330,"33,740","9,860,394,000","1,963,628,000",500%,"58,199",29.1
+3X,311221,Wet corn milling,37,74,"6,288","9,783,834,000","505,878,000",1930%,"80,451",40.23
+3X,335312,Motor and generator manufacturing,372,423,"28,783","9,772,387,000","1,591,662,000",610%,"55,299",27.65
+3X,326140,Polystyrene foam product manufacturing,312,441,"28,942","9,752,636,000","1,278,870,000",760%,"44,187",22.09
+3X,333922,Conveyor and conveying equipment manufacturing,719,780,"35,997","9,727,064,000","2,314,113,000",420%,"64,286",32.14
+3X,311225,Fats and oils refining and blending,79,100,"6,054","9,557,494,000","363,636,000",2630%,"60,065",30.03
+3X,321920,Wood container and pallet manufacturing,"2,357","2,729","55,389","9,551,288,000","1,956,953,000",490%,"35,331",17.67
+3X,325120,Industrial gas manufacturing,63,510,"12,857","9,525,629,000","1,001,839,000",950%,"77,922",38.96
+3X,311422,Specialty canning,107,121,"11,391","9,337,386,000","617,392,000",1510%,"54,200",27.1
+3X,334517,Irradiation apparatus manufacturing,128,145,"17,543","9,302,915,000","1,591,841,000",580%,"90,739",45.37
+3X,333514,"Special die and tool, die set, jig, and fixture manufacturing","2,299","2,343","44,604","9,245,378,000","2,737,841,000",340%,"61,381",30.69
+3X,333912,Air and gas compressor manufacturing,260,297,"21,260","9,128,115,000","1,248,952,000",730%,"58,747",29.37
+3X,334111,Electronic computer manufacturing,300,305,"15,698","8,983,948,000","1,337,179,000",670%,"85,181",42.59
+3X,321219,Reconstituted wood product manufacturing,134,203,"13,719","8,615,109,000","819,591,000",1050%,"59,741",29.87
+3X,332510,Hardware manufacturing,573,619,"30,150","8,576,915,000","1,497,544,000",570%,"49,670",24.84
+3X,323113,Commercial screen printing,"5,134","5,165","61,897","8,480,724,000","2,238,059,000",380%,"36,158",18.08
+3X,333242,Semiconductor machinery manufacturing,143,155,"18,971","8,462,095,000","2,450,272,000",350%,"129,159",64.58
+3X,322219,Other paperboard container manufacturing,175,289,"21,698","8,401,957,000","1,042,956,000",810%,"48,067",24.03
+3X,337214,Office furniture (except wood) manufacturing,198,221,"27,063","8,342,860,000","1,318,620,000",630%,"48,724",24.36
+3X,325212,Synthetic rubber manufacturing,139,155,"9,504","8,316,426,000","764,970,000",1090%,"80,489",40.24
+3X,327310,Cement manufacturing,96,192,"14,437","8,313,773,000","976,792,000",850%,"67,659",33.83
+3X,335931,Current-carrying wiring device manufacturing,354,391,"25,404","8,281,803,000","1,345,850,000",620%,"52,978",26.49
+3X,336999,All other transportation equipment manufacturing,394,403,"14,767","8,276,133,000","764,094,000",1080%,"51,743",25.87
+3X,332111,Iron and steel forging,324,376,"19,784","8,219,394,000","1,193,632,000",690%,"60,333",30.17
+3X,332420,Metal tank (heavy gauge) manufacturing,641,742,"32,517","8,183,562,000","1,868,377,000",440%,"57,458",28.73
+3X,335929,Other communication and energy wire manufacturing,191,231,"17,648","8,105,683,000","1,014,889,000",800%,"57,507",28.75
+3X,337212,Custom architectural woodwork and millwork manufacturing,"2,083","2,132","45,746","8,032,300,000","2,327,931,000",350%,"50,888",25.44
+3X,326291,Rubber product manufacturing for mechanical use,344,409,"30,606","7,870,081,000","1,398,392,000",560%,"45,690",22.85
+3X,326121,Unlaminated plastics profile shape manufacturing,326,375,"18,827","7,857,350,000","1,047,367,000",750%,"55,631",27.82
+3X,333112,Lawn and garden tractor and home lawn and garden equipment manufacturing,148,165,"16,898","7,839,905,000","624,981,000",1250%,"36,986",18.49
+3X,332323,Ornamental and architectural metal work manufacturing,"2,373","2,414","35,146","7,812,219,000","1,799,698,000",430%,"51,206",25.6
+3X,337910,Mattress manufacturing,331,410,"19,991","7,778,048,000","870,578,000",890%,"43,548",21.77
+3X,333517,Machine tool manufacturing,792,823,"27,472","7,750,779,000","1,766,971,000",440%,"64,319",32.16
+3X,311520,Ice cream and frozen dessert manufacturing,370,415,"20,409","7,726,642,000","960,210,000",800%,"47,048",23.52
+3X,331492,"Secondary smelting, refining, and alloying of nonferrous metal (except copper and aluminum)",178,215,"8,960","7,721,554,000","563,799,000",1370%,"62,924",31.46
+3X,332311,Prefabricated metal building and component manufacturing,649,739,"25,831","7,651,883,000","1,406,078,000",540%,"54,434",27.22
+3X,335911,Storage battery manufacturing,120,161,"25,126","7,532,536,000","1,291,072,000",580%,"51,384",25.69
+3X,325613,Surface active agent manufacturing,108,135,"6,029","7,487,124,000","533,574,000",1400%,"88,501",44.25
+3X,321918,Other millwork (including flooring),"1,464","1,568","32,983","7,282,366,000","1,256,121,000",580%,"38,084",19.04
+3X,331523,Nonferrous metal die-casting foundries,349,392,"30,826","7,259,609,000","1,603,702,000",450%,"52,024",26.01
+3X,339910,Jewelry and silverware manufacturing,"1,957","1,976","24,185","7,231,396,000","1,086,293,000",670%,"44,916",22.46
+3X,337215,"Showcase, partition, shelving, and locker manufacturing",906,948,"35,028","7,199,531,000","1,529,383,000",470%,"43,662",21.83
+3X,332813,"Electroplating, plating, polishing, anodizing, and coloring","2,082","2,183","49,804","7,187,175,000","2,218,327,000",320%,"44,541",22.27
+3X,332313,Plate work manufacturing,"1,418","1,467","35,571","7,146,177,000","1,812,779,000",390%,"50,962",25.48
+3X,313110,"Fiber, yarn, and thread mills",238,293,"22,061","7,106,276,000","806,720,000",880%,"36,568",18.28
+3X,332410,Power boiler and heat exchanger manufacturing,273,323,"23,442","7,102,859,000","1,570,121,000",450%,"66,979",33.49
+3X,313230,Nonwoven fabric mills,192,227,"16,497","7,082,180,000","867,655,000",820%,"52,595",26.3
+3X,325194,"Cyclic crude, intermediate, and gum and wood chemical manufacturing",53,76,"5,330","7,079,708,000","506,383,000",1400%,"95,006",47.5
+3X,333995,Fluid power cylinder and actuator manufacturing,252,316,"21,569","7,054,593,000","1,539,917,000",460%,"71,395",35.7
+3X,333923,"Overhead traveling crane, hoist, and monorail system manufacturing",267,303,"18,073","6,992,732,000","1,069,168,000",650%,"59,158",29.58
+3X,339991,"Gasket, packing, and sealing device manufacturing",486,557,"27,073","6,946,659,000","1,560,529,000",450%,"57,642",28.82
+3X,333993,Packaging machinery manufacturing,473,519,"20,248","6,945,588,000","1,404,546,000",490%,"69,367",34.68
+3X,325130,Synthetic dye and pigment manufacturing,111,145,"8,163","6,871,629,000","670,312,000",1030%,"82,116",41.06
+3X,322110,Pulp mills,19,35,"9,349","6,862,408,000","823,592,000",830%,"88,094",44.05
+3X,336415,Guided missile and space vehicle propulsion unit and propulsion unit parts manufacturing,16,30,"17,295","6,831,812,000","1,695,829,000",400%,"98,053",49.03
+3X,332114,Custom roll forming,346,408,"17,891","6,813,858,000","971,772,000",700%,"54,316",27.16
+3X,325220,Artificial and synthetic fibers and filaments manufacturing,109,131,"13,607","6,784,965,000","685,619,000",990%,"50,387",25.19
+3X,336991,"Motorcycle, bicycle, and parts manufacturing",427,431,"10,172","6,713,949,000","555,666,000",1210%,"54,627",27.31
+3X,311423,Dried and dehydrated food manufacturing,187,231,"14,721","6,676,952,000","725,967,000",920%,"49,315",24.66
+3X,325612,Polish and other sanitation good manufacturing,422,461,"15,179","6,659,264,000","925,942,000",720%,"61,002",30.5
+3X,321114,Wood preservation,310,415,"10,268","6,598,491,000","508,251,000",1300%,"49,499",24.75
+3X,334118,Computer terminal and other computer peripheral equipment manufacturing,539,552,"17,348","6,594,366,000","1,337,560,000",490%,"77,102",38.55
+3X,321999,All other miscellaneous wood product manufacturing,"2,647","2,775","33,547","6,592,047,000","1,256,366,000",520%,"37,451",18.73
+3X,325992,"Photographic film, paper, plate, and chemical manufacturing",191,207,"9,083","6,549,272,000","554,159,000",1180%,"61,011",30.51
+3X,311314,Cane sugar manufacturing,36,52,"7,155","6,520,975,000","429,856,000",1520%,"60,078",30.04
+3X,321214,Truss manufacturing,617,800,"30,994","6,492,236,000","1,264,406,000",510%,"40,795",20.4
+3X,311512,Creamery butter manufacturing,40,50,"3,625","6,463,612,000","201,749,000",3200%,"55,655",27.83
+3X,333511,Industrial mold manufacturing,"1,394","1,443","34,934","6,444,446,000","1,960,601,000",330%,"56,123",28.06
+3X,336992,"Military armored vehicle, tank, and tank component manufacturing",32,48,"10,461","6,404,574,000","735,961,000",870%,"70,353",35.18
+3X,332216,Saw blade and handtool manufacturing,856,924,"27,225","6,329,655,000","1,427,961,000",440%,"52,450",26.23
+3X,332994,"Small arms, ordnance, and ordnance accessories manufacturing",391,407,"18,426","6,282,988,000","1,149,183,000",550%,"62,367",31.18
+3X,332996,Fabricated pipe and pipe fitting manufacturing,654,725,"26,588","6,250,765,000","1,507,446,000",410%,"56,696",28.35
+3X,331491,"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding, and alloying",201,229,"14,165","6,245,816,000","973,714,000",640%,"68,741",34.37
+3X,327993,Mineral wool manufacturing,169,258,"14,666","6,225,847,000","894,323,000",700%,"60,979",30.49
+3X,311813,"Frozen cakes, pies, and other pastries manufacturing",195,226,"23,557","6,196,603,000","937,547,000",660%,"39,799",19.9
+3X,339115,Ophthalmic goods manufacturing,338,494,"22,174","6,167,286,000","1,211,248,000",510%,"54,625",27.31
+3X,335932,Noncurrent-carrying wiring device manufacturing,123,153,"14,492","6,124,032,000","788,533,000",780%,"54,412",27.21
+3X,332991,Ball and roller bearing manufacturing,107,166,"19,649","6,114,288,000","1,084,160,000",560%,"55,176",27.59
+3X,325311,Nitrogenous fertilizer manufacturing,161,200,"5,834","6,057,312,000","496,205,000",1220%,"85,054",42.53
+3X,335122,"Commercial, industrial, and institutional electric lighting fixture manufacturing",428,462,"20,055","5,969,374,000","1,139,263,000",520%,"56,807",28.4
+3X,312112,Bottled water manufacturing,208,294,"10,960","5,924,115,000","512,250,000",1160%,"46,738",23.37
+3X,333413,Industrial and commercial fan and blower and air purification equipment manufacturing,401,478,"24,021","5,904,003,000","1,173,736,000",500%,"48,863",24.43
+3X,325312,Phosphatic fertilizer manufacturing,47,73,"5,763","5,893,295,000","512,206,000",1150%,"88,878",44.44
+3X,331314,Secondary smelting and alloying of aluminum,64,87,"5,643","5,886,345,000","333,428,000",1770%,"59,087",29.54
+3X,321912,"Cut stock, resawing lumber, and planing",736,833,"21,555","5,878,591,000","841,300,000",700%,"39,030",19.52
+3X,331221,Rolled steel shape manufacturing,157,196,"8,940","5,863,110,000","546,515,000",1070%,"61,131",30.57
+3X,327120,Clay building material and refractories manufacturing,383,539,"22,457","5,812,988,000","1,129,821,000",510%,"50,310",25.16
+3X,322230,Stationery product manufacturing,321,378,"16,048","5,769,014,000","763,851,000",760%,"47,598",23.8
+3X,327420,Gypsum product manufacturing,119,195,"8,434","5,767,188,000","559,773,000",1030%,"66,371",33.19
+3X,334417,Electronic connector manufacturing,159,202,"17,840","5,717,287,000","1,139,672,000",500%,"63,883",31.94
+3X,331222,Steel wire drawing,187,231,"14,501","5,487,938,000","734,746,000",750%,"50,669",25.33
+3X,333992,Welding and soldering equipment manufacturing,338,360,"14,749","5,485,709,000","1,003,411,000",550%,"68,032",34.02
+3X,336213,Motor home manufacturing,39,47,"12,127","5,370,420,000","633,307,000",850%,"52,223",26.11
+3X,334210,Telephone apparatus manufacturing,193,208,"12,883","5,356,767,000","988,299,000",540%,"76,713",38.36
+3X,334514,Totalizing fluid meter and counting device manufacturing,186,196,"13,254","5,331,356,000","886,134,000",600%,"66,858",33.43
+3X,326220,Rubber and plastics hoses and belting manufacturing,200,277,"18,733","5,300,148,000","948,283,000",560%,"50,621",25.31
+3X,333241,Food product machinery manufacturing,430,466,"16,605","5,189,686,000","1,147,569,000",450%,"69,110",34.56
+3X,332618,Other fabricated wire product manufacturing,678,763,"21,406","5,179,693,000","1,014,103,000",510%,"47,375",23.69
+3X,335311,"Power, distribution, and specialty transformer manufacturing",216,242,"18,236","5,162,111,000","1,005,058,000",510%,"55,114",27.56
+3X,333515,Cutting tool and machine tool accessory manufacturing,"1,291","1,351","25,968","5,129,421,000","1,483,073,000",350%,"57,112",28.56
+3X,327999,All other miscellaneous nonmetallic mineral product manufacturing,276,423,"13,520","5,037,447,000","625,631,000",810%,"46,274",23.14
+3X,332913,Plumbing fixture fitting and trim manufacturing,94,106,"9,028","4,972,184,000","491,013,000",1010%,"54,388",27.19
+3X,332811,Metal heat treating,621,783,"20,407","4,953,205,000","1,128,093,000",440%,"55,280",27.64
+3X,327991,Cut stone and stone product manufacturing,"1,919","1,990","31,155","4,913,827,000","1,407,983,000",350%,"45,193",22.6
+3X,333613,Mechanical power transmission equipment manufacturing,205,243,"16,962","4,899,148,000","963,494,000",510%,"56,803",28.4
+3X,337127,Institutional furniture manufacturing,581,601,"24,250","4,866,502,000","1,136,071,000",430%,"46,848",23.42
+3X,325314,Fertilizer (mixing only) manufacturing,364,478,"8,835","4,835,019,000","462,378,000",1050%,"52,335",26.17
+3X,339116,Dental laboratories,"5,648","5,984","42,847","4,823,846,000","1,817,402,000",270%,"42,416",21.21
+3X,311613,Rendering and meat byproduct processing,100,211,"9,104","4,817,672,000","496,251,000",970%,"54,509",27.25
+3X,327910,Abrasive product manufacturing,254,297,"11,426","4,811,488,000","683,791,000",700%,"59,845",29.92
+3X,327331,Concrete block and brick manufacturing,435,685,"15,575","4,799,594,000","804,783,000",600%,"51,671",25.84
+3X,327213,Glass container manufacturing,23,63,"14,313","4,784,092,000","919,214,000",520%,"64,222",32.11
+3X,334112,Computer storage device manufacturing,84,91,"6,116","4,770,337,000","520,467,000",920%,"85,099",42.55
+3X,313310,Textile and fabric finishing mills,648,673,"19,702","4,762,959,000","795,273,000",600%,"40,365",20.18
+3X,333131,Mining machinery and equipment manufacturing,230,269,"14,501","4,638,335,000","844,450,000",550%,"58,234",29.12
+3X,335129,Other lighting equipment manufacturing,272,280,"12,504","4,618,112,000","738,736,000",630%,"59,080",29.54
+3X,339114,Dental equipment and supplies manufacturing,556,575,"14,018","4,553,402,000","874,437,000",520%,"62,380",31.19
+3X,327992,Ground or treated mineral and earth manufacturing,157,258,"8,858","4,495,667,000","559,736,000",800%,"63,190",31.6
+3X,314999,All other miscellaneous textile product mills,"2,461","2,510","29,518","4,462,019,000","1,020,069,000",440%,"34,558",17.28
+3X,333414,Heating equipment (except warm air furnaces) manufacturing,364,397,"14,902","4,439,701,000","787,033,000",560%,"52,814",26.41
+3X,333314,Optical instrument and lens manufacturing,392,415,"15,242","4,418,474,000","1,073,282,000",410%,"70,416",35.21
+3X,326130,"Laminated plastics plate, sheet (except packaging), and shape manufacturing",209,232,"12,248","4,412,136,000","734,179,000",600%,"59,943",29.97
+3X,323117,Books printing,485,523,"21,371","4,400,635,000","1,032,581,000",430%,"48,317",24.16
+3X,322299,All other converted paper product manufacturing,384,445,"14,220","4,367,855,000","713,147,000",610%,"50,151",25.08
+3X,326191,Plastics plumbing fixture manufacturing,312,348,"17,716","4,365,878,000","771,825,000",570%,"43,567",21.78
+3X,334412,Bare printed circuit board manufacturing,442,468,"22,590","4,322,601,000","1,111,034,000",390%,"49,183",24.59
+3X,311811,Retail bakeries,"6,646","6,914","63,373","4,299,052,000","1,423,222,000",300%,"22,458",11.23
+3X,334290,Other communications equipment manufacturing,321,331,"11,695","4,293,247,000","801,050,000",540%,"68,495",34.25
+3X,321991,Manufactured home (mobile home) manufacturing,156,236,"21,182","4,271,307,000","845,405,000",510%,"39,911",19.96
+3X,311351,Chocolate and confectionery manufacturing from cacao beans,189,204,"7,605","4,248,344,000","437,983,000",970%,"57,591",28.8
+3X,321212,Softwood veneer and plywood manufacturing,55,86,"13,965","4,240,227,000","709,411,000",600%,"50,799",25.4
+3X,333996,Fluid power pump and motor manufacturing,130,155,"10,094","4,226,279,000","723,683,000",580%,"71,694",35.85
+3X,325910,Printing ink manufacturing,182,343,"10,088","4,221,294,000","636,278,000",660%,"63,073",31.54
+3X,321992,Prefabricated wood building manufacturing,549,644,"17,777","4,207,937,000","765,697,000",550%,"43,072",21.54
+3X,327211,Flat glass manufacturing,76,97,"10,982","4,138,497,000","582,997,000",710%,"53,087",26.54
+3X,332992,Small arms ammunition manufacturing,146,152,"11,964","4,117,687,000","667,240,000",620%,"55,771",27.89
+3X,332613,Spring manufacturing,313,376,"16,756","4,033,081,000","856,819,000",470%,"51,135",25.57
+3X,313210,Broadwoven fabric mills,271,297,"16,149","3,990,845,000","664,548,000",600%,"41,151",20.58
+3X,324199,All other petroleum and coal products manufacturing,55,73,"3,190","3,980,535,000","222,787,000",1790%,"69,839",34.92
+3X,332919,Other metal valve and pipe fitting manufacturing,219,239,"12,130","3,920,116,000","709,621,000",550%,"58,501",29.25
+3X,311830,Tortilla manufacturing,353,385,"18,855","3,910,502,000","724,372,000",540%,"38,418",19.21
+3X,337122,Nonupholstered wood household furniture manufacturing,"2,012","2,037","26,067","3,887,208,000","908,335,000",430%,"34,846",17.42
+3X,331512,Steel investment foundries,93,112,"13,944","3,798,319,000","787,828,000",480%,"56,499",28.25
+3X,335210,Small electrical appliance manufacturing,131,142,"9,162","3,778,684,000","429,261,000",880%,"46,852",23.43
+3X,333519,Rolling mill and other metalworking machinery manufacturing,388,408,"13,124","3,756,440,000","911,646,000",410%,"69,464",34.73
+3X,334416,"Capacitor, resistor, coil, transformer, and other inductor manufacturing",339,375,"18,068","3,749,669,000","899,032,000",420%,"49,758",24.88
+3X,314120,Curtain and linen mills,"1,336","1,390","22,589","3,625,984,000","710,761,000",510%,"31,465",15.73
+3X,311313,Beet sugar manufacturing,13,29,"6,918","3,595,821,000","332,244,000",1080%,"48,026",24.01
+3X,331513,Steel foundries (except investment),189,201,"12,055","3,570,028,000","671,258,000",530%,"55,683",27.84
+3X,311212,Rice milling,59,80,"5,078","3,556,572,000","252,073,000",1410%,"49,640",24.82
+3X,335991,Carbon and graphite product manufacturing,122,153,"8,944","3,519,501,000","584,373,000",600%,"65,337",32.67
+3X,333921,Elevator and moving stairway manufacturing,165,175,"9,470","3,514,719,000","526,461,000",670%,"55,593",27.8
+3X,327212,Other pressed and blown glass and glassware manufacturing,386,409,"12,875","3,454,982,000","695,361,000",500%,"54,009",27
+3X,333991,Power-driven handtool manufacturing,125,132,"6,681","3,332,947,000","382,883,000",870%,"57,309",28.65
+3X,315240,"Women's, girls', and infants' cut and sew apparel manufacturing","1,118","1,120","14,553","3,330,198,000","636,110,000",520%,"43,710",21.86
+3X,332215,"Metal kitchen cookware, utensil, cutlery, and flatware (except precious) manufacturing",205,210,"6,821","3,269,063,000","386,178,000",850%,"56,616",28.31
+3X,333243,"Sawmill, woodworking, and paper machinery manufacturing",337,367,"11,970","3,263,289,000","819,219,000",400%,"68,439",34.22
+3X,321211,Hardwood veneer and plywood manufacturing,211,236,"12,069","3,129,223,000","508,967,000",610%,"42,171",21.09
+3X,323120,Support activities for printing,"1,279","1,371","22,725","3,085,300,000","1,078,853,000",290%,"47,474",23.74
+3X,333612,"Speed changer, industrial high-speed drive, and gear manufacturing",189,221,"10,295","3,084,532,000","617,379,000",500%,"59,969",29.98
+3X,339940,Office supplies (except paper) manufacturing,420,447,"10,685","3,062,807,000","519,949,000",590%,"48,662",24.33
+3X,314910,Textile bag and canvas mills,"1,384","1,416","19,488","3,057,146,000","776,433,000",390%,"39,842",19.92
+3X,332439,Other metal container manufacturing,256,289,"9,734","3,039,310,000","485,837,000",630%,"49,911",24.96
+3X,334310,Audio and video equipment manufacturing,464,476,"10,055","3,010,057,000","575,708,000",520%,"57,256",28.63
+3X,334512,"Automatic environmental control manufacturing for residential, commercial, and appliance use",261,274,"11,779","2,990,131,000","847,986,000",350%,"71,991",36
+3X,331524,Aluminum foundries (except die-casting),378,397,"14,102","2,974,736,000","692,445,000",430%,"49,103",24.55
+3X,332993,Ammunition (except small arms) manufacturing,42,52,"12,041","2,855,739,000","989,195,000",290%,"82,152",41.08
+3X,335921,Fiber optic cable manufacturing,85,90,"6,810","2,830,343,000","394,181,000",720%,"57,883",28.94
+3X,339994,"Broom, brush, and mop manufacturing",167,182,"9,475","2,814,792,000","450,465,000",620%,"47,542",23.77
+3X,331313,Alumina refining and primary aluminum production,21,28,"3,838","2,790,972,000","301,563,000",930%,"78,573",39.29
+3X,333994,Industrial process furnace and oven manufacturing,318,343,"10,643","2,588,651,000","689,619,000",380%,"64,796",32.4
+3X,331529,Other nonferrous metal foundries (except die-casting),253,261,"9,267","2,572,834,000","479,071,000",540%,"51,696",25.85
+3X,337211,Wood office furniture manufacturing,307,319,"12,028","2,463,608,000","543,539,000",450%,"45,189",22.59
+3X,325920,Explosives manufacturing,56,93,"7,140","2,460,111,000","481,298,000",510%,"67,409",33.7
+3X,332112,Nonferrous forging,46,56,"5,987","2,386,460,000","383,298,000",620%,"64,022",32.01
+3X,337920,Blind and shade manufacturing,307,329,"11,037","2,383,662,000","477,612,000",500%,"43,274",21.64
+3X,313320,Fabric coating mills,154,165,"6,715","2,371,157,000","388,903,000",610%,"57,916",28.96
+3X,337124,Metal household furniture manufacturing,262,274,"9,773","2,359,073,000","463,015,000",510%,"47,377",23.69
+3X,332117,Powder metallurgy part manufacturing,115,135,"9,543","2,328,404,000","476,873,000",490%,"49,971",24.99
+3X,327410,Lime manufacturing,38,95,"4,066","2,261,924,000","281,567,000",800%,"69,249",34.62
+3X,327110,"Pottery, ceramics, and plumbing fixture manufacturing",560,580,"12,347","2,238,625,000","550,084,000",410%,"44,552",22.28
+3X,335912,Primary battery manufacturing,57,71,"6,606","2,076,489,000","430,271,000",480%,"65,133",32.57
+3X,315210,Cut and sew apparel contractors,"2,899","2,915","27,853","2,074,211,000","734,632,000",280%,"26,375",13.19
+3X,321213,Engineered wood member (except truss) manufacturing,92,112,"4,982","2,067,452,000","251,214,000",820%,"50,424",25.21
+3X,339992,Musical instrument manufacturing,587,608,"11,731","2,006,932,000","532,179,000",380%,"45,365",22.68
+3X,333244,Printing machinery and equipment manufacturing,266,280,"6,777","1,866,592,000","434,796,000",430%,"64,158",32.08
+3X,316210,Footwear manufacturing,203,221,"11,459","1,794,548,000","412,479,000",440%,"35,996",18
+3X,335121,Residential electric lighting fixture manufacturing,258,262,"6,469","1,746,783,000","279,441,000",630%,"43,197",21.6
+3X,314994,"Rope, cordage, twine, tire cord, and tire fabric mills",133,143,"6,050","1,644,707,000","286,980,000",570%,"47,435",23.72
+3X,339930,"Doll, toy, and game manufacturing",497,503,"5,787","1,625,621,000","285,607,000",570%,"49,353",24.68
+3X,327332,Concrete pipe manufacturing,93,221,"5,184","1,603,657,000","266,393,000",600%,"51,388",25.69
+3X,333316,Photographic and photocopying equipment manufacturing,179,186,"3,846","1,544,855,000","238,579,000",650%,"62,033",31.02
+3X,315220,Men's and boys' cut and sew apparel manufacturing,434,449,"15,757","1,525,774,000","443,239,000",340%,"28,130",14.07
+3X,335110,Electric lamp bulb and part manufacturing,61,69,"4,401","1,519,565,000","242,249,000",630%,"55,044",27.52
+3X,326212,Tire retreading,263,376,"6,494","1,512,917,000","263,417,000",570%,"40,563",20.28
+3X,316110,Leather and hide tanning and finishing,169,178,"3,436","1,461,361,000","141,553,000",1030%,"41,197",20.6
+3X,336419,Other guided missile and space vehicle parts and auxiliary equipment manufacturing,35,39,"4,756","1,421,669,000","371,132,000",380%,"78,034",39.02
+3X,334614,"Software and other prerecorded compact disc, tape, and record reproducing",385,393,"8,273","1,420,567,000","462,403,000",310%,"55,893",27.95
+3X,313240,Knit fabric mills,140,143,"6,208","1,418,470,000","260,238,000",550%,"41,920",20.96
+3X,311213,Malt manufacturing,31,44,986,"1,283,715,000","66,011,000",1940%,"66,948",33.47
+3X,316998,All other leather good and allied product manufacturing,664,668,"9,630","1,225,508,000","324,820,000",380%,"33,730",16.87
+3X,315280,Other cut and sew apparel manufacturing,439,443,"7,381","1,065,388,000","256,020,000",420%,"34,686",17.34
+3X,315990,Apparel accessories and other apparel manufacturing,568,575,"7,833","1,063,344,000","242,761,000",440%,"30,992",15.5
+3X,337125,Household furniture (except wood and metal) manufacturing,153,154,"2,682","1,010,684,000","103,855,000",970%,"38,723",19.36
+3X,333997,Scale and balance manufacturing,74,84,"3,106","1,008,166,000","183,137,000",550%,"58,962",29.48
+3X,339993,"Fastener, button, needle, and pin manufacturing",102,109,"3,855","937,526,000","202,669,000",460%,"52,573",26.29
+3X,315110,Hosiery and sock mills,119,128,"8,640","924,379,000","256,829,000",360%,"29,726",14.86
+3X,322122,Newsprint mills,8,9,"1,248","880,301,000","103,890,000",850%,"83,245",41.62
+3X,313220,Narrow fabric mills and schiffli machine embroidery,169,176,"5,255","877,455,000","213,672,000",410%,"40,661",20.33
+3X,312113,Ice manufacturing,266,400,"5,180","749,625,000","203,423,000",370%,"39,271",19.64
+3X,339995,Burial casket manufacturing,85,100,"3,006","560,344,000","126,972,000",440%,"42,240",21.12
+3X,334613,Blank magnetic and optical recording media manufacturing,57,57,520,"379,349,000","35,498,000",1070%,"68,265",34.13
+3X,316992,Women's handbag and purse manufacturing,91,92,"1,480","322,800,000","64,417,000",500%,"43,525",21.76
+3X,315190,Other apparel knitting mills,98,98,"2,045","265,737,000","63,929,000",420%,"31,261",15.63
+42,424210,Drugs and druggists' sundries merchant wholesalers,"6,996","10,277","326,418","931,670,122,000","40,018,766,000",2330%,"122,600",61.3
+42,425120,Wholesale trade agents and brokers,"34,980","37,191","296,479","699,498,005,000","14,299,535,000",4890%,"48,231",24.12
+42,423110,Automobile and other motor vehicle merchant wholesalers,"5,054","6,411","130,147","640,753,682,000","8,467,763,000",7570%,"65,063",32.53
+42,424720,Petroleum and petroleum products merchant wholesalers (except bulk stations and terminals),"1,877","2,486","34,202","574,849,784,000","3,215,174,000",17880%,"94,005",47
+42,424710,Petroleum bulk stations and terminals,"2,296","3,986","65,582","542,420,609,000","4,337,339,000",12510%,"66,136",33.07
+42,423690,Other electronic parts and equipment merchant wholesalers,"9,041","12,171","265,395","384,828,154,000","31,486,779,000",1220%,"118,641",59.32
+42,424490,Other grocery and related products merchant wholesalers,"11,005","15,014","315,273","306,767,768,000","16,511,757,000",1860%,"52,373",26.19
+42,423430,Computer and computer peripheral equipment and software merchant wholesalers,"5,870","8,124","182,258","259,740,873,000","20,222,818,000",1280%,"110,957",55.48
+42,423830,Industrial machinery and equipment merchant wholesalers,"22,773","29,871","378,450","237,366,122,000","26,125,658,000",910%,"69,033",34.52
+42,423450,"Medical, dental, and hospital equipment and supplies merchant wholesalers","8,077","10,305","232,781","229,590,399,000","24,269,820,000",950%,"104,260",52.13
+42,424410,General line grocery merchant wholesalers,"1,965","2,576","150,185","206,003,825,000","9,069,400,000",2270%,"60,388",30.19
+42,423510,Metal service centers and other metal merchant wholesalers,"6,920","9,385","147,983","199,569,812,000","9,198,847,000",2170%,"62,162",31.08
+42,424690,Other chemical and allied products merchant wholesalers,"6,161","9,852","134,205","195,953,924,000","10,306,784,000",1900%,"76,799",38.4
+42,423120,Motor vehicle supplies and new parts merchant wholesalers,"8,363","13,169","215,328","192,308,809,000","10,963,391,000",1750%,"50,915",25.46
+42,424510,Grain and field bean merchant wholesalers,"2,263","4,934","53,855","185,941,097,000","3,115,732,000",5970%,"57,854",28.93
+42,423610,"Electrical apparatus and equipment, wiring supplies, and related equipment merchant wholesalers","8,441","14,719","217,569","162,758,406,000","16,081,711,000",1010%,"73,915",36.96
+42,424420,Packaged frozen food merchant wholesalers,"2,739","3,386","89,092","150,951,413,000","4,956,426,000",3050%,"55,633",27.82
+42,424910,Farm supplies merchant wholesalers,"4,969","9,244","111,116","140,538,455,000","6,927,293,000",2030%,"62,343",31.17
+42,424940,Tobacco and tobacco product merchant wholesalers,"1,281","1,509","57,252","124,907,908,000","2,922,039,000",4270%,"51,038",25.52
+42,423620,"Household appliances, electric housewares, and consumer electronics merchant wholesalers","2,019","2,500","50,098","117,889,232,000","3,973,963,000",2970%,"79,324",39.66
+42,424130,Industrial and personal service paper merchant wholesalers,"3,694","4,545","69,372","102,627,028,000","4,486,268,000",2290%,"64,670",32.34
+42,423310,"Lumber, plywood, millwork, and wood panel merchant wholesalers","4,681","7,078","128,118","97,659,317,000","7,159,817,000",1360%,"55,885",27.94
+42,424820,Wine and distilled alcoholic beverage merchant wholesalers,"2,134","2,664","90,983","94,487,981,000","6,598,095,000",1430%,"72,520",36.26
+42,423820,Farm and garden machinery and equipment merchant wholesalers,"4,896","7,593","105,320","92,330,484,000","5,661,388,000",1630%,"53,754",26.88
+42,424480,Fresh fruit and vegetable merchant wholesalers,"4,439","4,856","112,972","91,359,535,000","5,484,685,000",1670%,"48,549",24.27
+42,423810,Construction and mining (except oil well) machinery and equipment merchant wholesalers,"2,791","4,888","93,324","87,261,074,000","6,449,817,000",1350%,"69,112",34.56
+42,424430,Dairy product (except dried or canned) merchant wholesalers,"1,521","2,022","43,430","79,906,538,000","2,381,821,000",3350%,"54,843",27.42
+42,423930,Recyclable material merchant wholesalers,"6,645","8,106","103,490","78,230,338,000","4,730,861,000",1650%,"45,713",22.86
+42,424470,Meat and meat product merchant wholesalers,"2,097","2,329","47,325","75,400,087,000","2,531,219,000",2980%,"53,486",26.74
+42,423840,Industrial supplies merchant wholesalers,"5,792","9,164","106,659","74,250,958,000","6,892,973,000",1080%,"64,626",32.31
+42,424810,Beer and ale merchant wholesalers,"1,423","1,875","115,206","67,697,643,000","6,090,335,000",1110%,"52,865",26.43
+42,424330,"Women's, children's, and infants' clothing and accessories merchant wholesalers","7,329","7,651","93,756","66,740,295,000","5,531,018,000",1210%,"58,994",29.5
+42,423710,Hardware merchant wholesalers,"5,143","6,454","91,644","65,709,966,000","5,364,833,000",1220%,"58,540",29.27
+42,423220,Home furnishing merchant wholesalers,"6,014","7,302","98,819","64,352,795,000","5,733,161,000",1120%,"58,017",29.01
+42,423720,Plumbing and heating equipment and supplies (hydronics) merchant wholesalers,"2,629","6,069","81,121","61,337,543,000","5,032,689,000",1220%,"62,039",31.02
+42,424320,Men's and boys' clothing and furnishings merchant wholesalers,"3,300","3,561","60,063","54,357,295,000","3,601,767,000",1510%,"59,966",29.98
+42,423730,Warm air heating and air-conditioning equipment and supplies merchant wholesalers,"2,235","6,220","74,874","53,180,121,000","5,055,556,000",1050%,"67,521",33.76
+42,423130,Tire and tube merchant wholesalers,"1,233","2,659","44,045","51,854,452,000","2,113,916,000",2450%,"47,994",24
+42,424450,Confectionery merchant wholesalers,"1,858","2,277","39,824","51,133,014,000","2,178,249,000",2350%,"54,697",27.35
+42,423860,Transportation equipment and supplies (except motor vehicle) merchant wholesalers,"2,136","2,460","36,735","51,124,589,000","2,583,732,000",1980%,"70,334",35.17
+42,423940,"Jewelry, watch, precious stone, and precious metal merchant wholesalers","7,317","7,561","46,952","51,011,990,000","2,545,439,000",2000%,"54,214",27.11
+42,423210,Furniture merchant wholesalers,"5,267","6,013","72,924","50,707,487,000","4,472,838,000",1130%,"61,336",30.67
+42,423330,"Roofing, siding, and insulation material merchant wholesalers",849,"3,342","43,921","45,670,297,000","2,817,294,000",1620%,"64,145",32.07
+42,423910,Sporting and recreational goods and supplies merchant wholesalers,"4,664","5,369","62,929","44,991,219,000","3,573,513,000",1260%,"56,786",28.39
+42,424990,Other miscellaneous nondurable goods merchant wholesalers,"10,772","11,337","80,627","44,558,090,000","3,758,451,000",1190%,"46,615",23.31
+42,424120,Stationery and office supplies merchant wholesalers,"3,128","4,426","70,903","44,513,669,000","3,595,179,000",1240%,"50,706",25.35
+42,424610,Plastics materials and basic forms and shapes merchant wholesalers,"2,206","2,955","32,750","44,006,948,000","2,316,191,000",1900%,"70,723",35.36
+42,423990,Other miscellaneous durable goods merchant wholesalers,"8,501","9,234","85,963","42,427,123,000","4,588,985,000",920%,"53,383",26.69
+42,423420,Office equipment merchant wholesalers,"2,269","8,829","114,257","38,074,607,000","7,173,152,000",530%,"62,781",31.39
+42,424340,Footwear merchant wholesalers,"1,332","1,413","28,281","34,843,096,000","2,094,550,000",1660%,"74,062",37.03
+42,423920,Toy and hobby goods and supplies merchant wholesalers,"2,008","2,149","35,346","33,947,246,000","2,527,128,000",1340%,"71,497",35.75
+42,423440,Other commercial equipment merchant wholesalers,"3,504","4,055","53,720","27,973,968,000","3,042,817,000",920%,"56,642",28.32
+42,423320,"Brick, stone, and related construction material merchant wholesalers","2,318","3,682","36,385","26,646,921,000","1,949,417,000",1370%,"53,577",26.79
+42,423390,Other construction material merchant wholesalers,"2,631","3,623","48,150","24,519,295,000","2,655,769,000",920%,"55,156",27.58
+42,423850,Service establishment equipment and supplies merchant wholesalers,"3,199","4,717","54,980","22,231,954,000","2,820,990,000",790%,"51,309",25.65
+42,423520,Coal and other mineral and ore merchant wholesalers,295,339,"2,774","21,101,919,000","258,379,000",8170%,"93,143",46.57
+42,423490,Other professional equipment and supplies merchant wholesalers,"2,113","2,576","35,938","20,301,853,000","2,579,387,000",790%,"71,773",35.89
+42,424590,Other farm product raw material merchant wholesalers,662,739,"6,922","19,202,545,000","458,522,000",4190%,"66,241",33.12
+42,424950,"Paint, varnish, and supplies merchant wholesalers","1,007","1,913","21,226","18,347,566,000","1,344,727,000",1360%,"63,353",31.68
+42,424110,Printing and writing paper merchant wholesalers,583,873,"10,505","18,338,184,000","659,667,000",2780%,"62,796",31.4
+42,424460,Fish and seafood merchant wholesalers,"1,885","1,983","22,384","18,130,973,000","1,025,796,000",1770%,"45,827",22.91
+42,424310,"Piece goods, notions, and other dry goods merchant wholesalers","2,654","2,973","25,792","13,792,752,000","1,344,601,000",1030%,"52,132",26.07
+42,424930,"Flower, nursery stock, and florists' supplies merchant wholesalers","2,708","3,486","47,982","13,336,877,000","1,878,018,000",710%,"39,140",19.57
+42,424920,"Book, periodical, and newspaper merchant wholesalers","1,273","1,473","24,636","12,886,707,000","1,001,949,000",1290%,"40,670",20.34
+42,423460,Ophthalmic goods merchant wholesalers,899,"1,136","23,847","11,567,284,000","1,211,581,000",950%,"50,806",25.4
+42,424440,Poultry and poultry product merchant wholesalers,398,442,"9,979","11,486,637,000","451,671,000",2540%,"45,262",22.63
+42,423410,Photographic equipment and supplies merchant wholesalers,547,660,"10,766","11,074,986,000","945,147,000",1170%,"87,790",43.9
+42,423740,Refrigeration equipment and supplies merchant wholesalers,646,"1,230","14,248","8,043,495,000","800,007,000",1010%,"56,149",28.07
+42,424520,Livestock merchant wholesalers,566,657,"4,672","7,246,029,000","135,598,000",5340%,"29,024",14.51
+42,423140,Motor vehicle parts (used) merchant wholesalers,"1,555","1,743","19,983","5,415,163,000","767,936,000",710%,"38,429",19.21
+42,425110,Business to business electronic markets,515,522,"1,845","3,100,709,000","108,053,000",2870%,"58,565",29.28
+4A,441110,New car dealers,"17,458","21,637","1,166,388","906,487,056,000","62,676,038,000",1450%,"53,735",26.87
+4A,445110,Supermarkets and other grocery (except convenience) stores,"40,981","65,141","2,715,566","623,440,017,000","63,233,506,000",990%,"23,286",11.64
+4A,452311,Warehouse clubs and supercenters,9,"8,202","1,876,845","550,200,937,000","50,746,041,000",1080%,"27,038",13.52
+4A,454110,Electronic shopping and mail-order houses,"40,128","41,589","571,010","515,727,645,000","26,162,068,000",1970%,"45,817",22.91
+4A,447110,Gasoline stations with convenience stores,"56,926","98,788","795,132","376,226,605,000","15,763,515,000",2390%,"19,825",9.91
+4A,446110,Pharmacies and drug stores,"19,259","45,358","690,021","268,659,089,000","24,871,248,000",1080%,"36,044",18.02
+4A,444110,Home centers,"1,551","5,967","653,704","167,055,552,000","16,318,633,000",1020%,"24,963",12.48
+4A,448140,Family clothing stores,"6,809","28,759","744,414","104,537,124,000","12,039,133,000",870%,"16,173",8.09
+4A,441120,Used car dealers,"23,593","25,480","153,595","100,538,200,000","6,350,247,000",1580%,"41,344",20.67
+4A,444190,Other building material dealers,"22,793","29,414","281,067","99,550,520,000","13,024,081,000",760%,"46,338",23.17
+4A,447190,Other gasoline stations,"10,084","16,581","147,603","98,840,964,000","3,514,352,000",2810%,"23,809",11.9
+4A,443142,Electronics stores,"13,749","23,078","270,962","74,539,284,000","8,132,628,000",920%,"30,014",15.01
+4A,452319,All other general merchandise stores,"7,857","41,241","434,896","73,492,371,000","6,956,839,000",1060%,"15,997",8
+4A,452210,Department stores,14,"4,334","481,601","66,633,116,000","9,835,725,000",680%,"20,423",10.21
+4A,442110,Furniture stores,"13,805","23,628","210,687","60,324,993,000","7,854,833,000",770%,"37,282",18.64
+4A,441310,Automotive parts and accessories stores,"16,662","37,574","358,086","57,446,612,000","9,077,892,000",630%,"25,351",12.68
+4A,445310,"Beer, wine, and liquor stores","30,313","34,440","173,362","51,111,305,000","3,713,201,000",1380%,"21,419",10.71
+4A,451110,Sporting goods stores,"16,221","21,415","236,032","44,521,543,000","5,290,424,000",840%,"22,414",11.21
+4A,448120,Women's clothing stores,"13,386","33,184","344,880","37,909,742,000","5,429,972,000",700%,"15,745",7.87
+4A,448210,Shoe stores,"5,112","24,844","248,593","36,036,475,000","4,061,145,000",890%,"16,337",8.17
+4A,444220,"Nursery, garden center, and farm supply stores","10,048","13,586","134,757","34,545,050,000","3,668,823,000",940%,"27,225",13.61
+4A,441320,Tire dealers,"11,160","20,376","173,793","33,444,280,000","6,691,314,000",500%,"38,502",19.25
+4A,454310,Fuel dealers,"4,639","8,031","75,481","31,065,520,000","3,474,045,000",890%,"46,025",23.01
+4A,448310,Jewelry stores,"15,006","21,283","117,950","29,465,625,000","4,073,799,000",720%,"34,538",17.27
+4A,442299,All other home furnishings stores,"7,827","14,048","176,454","29,196,860,000","3,291,537,000",890%,"18,654",9.33
+4A,441228,"Motorcycle, ATV, and all other motor vehicle dealers","6,304","6,925","72,015","28,577,479,000","2,786,709,000",1030%,"38,696",19.35
+4A,445120,Convenience stores,"25,844","28,460","129,707","26,513,576,000","2,332,429,000",1140%,"17,982",8.99
+4A,441210,Recreational vehicle dealers,"2,160","2,667","45,217","25,856,054,000","2,191,115,000",1180%,"48,458",24.23
+4A,444130,Hardware stores,"9,864","15,048","149,075","25,567,567,000","3,781,669,000",680%,"25,368",12.68
+4A,454390,Other direct selling establishments,"22,282","24,030","109,175","25,088,382,000","4,107,420,000",610%,"37,622",18.81
+4A,446120,"Cosmetics, beauty supplies, and perfume stores","7,798","17,056","165,641","22,534,326,000","3,026,542,000",740%,"18,272",9.14
+4A,442210,Floor covering stores,"9,292","11,172","71,047","21,784,638,000","3,047,623,000",710%,"42,896",21.45
+4A,453998,All other miscellaneous store retailers (except tobacco stores),"17,511","21,465","105,106","19,381,549,000","3,015,903,000",640%,"28,694",14.35
+4A,453910,Pet and pet supplies stores,"5,087","9,984","119,869","18,353,328,000","2,573,432,000",710%,"21,469",10.73
+4A,451120,"Hobby, toy, and game stores","4,668","8,507","148,059","17,435,227,000","2,207,561,000",790%,"14,910",7.46
+4A,443141,Household appliance stores,"5,448","7,362","60,584","16,564,899,000","2,106,497,000",790%,"34,770",17.39
+4A,448190,Other clothing stores,"7,278","12,257","130,513","16,393,763,000","2,432,008,000",670%,"18,634",9.32
+4A,453220,"Gift, novelty, and souvenir stores","15,440","21,687","151,193","16,301,106,000","2,645,228,000",620%,"17,496",8.75
+4A,441222,Boat dealers,"3,564","4,223","34,207","15,419,545,000","1,490,205,000",1030%,"43,564",21.78
+4A,453310,Used merchandise stores,"13,969","20,301","200,401","14,937,262,000","3,745,312,000",400%,"18,689",9.34
+4A,453210,Office supplies and stationery stores,"2,661","5,659","71,016","11,998,448,000","1,395,454,000",860%,"19,650",9.83
+4A,446199,All other health and personal care stores,"6,574","9,932","60,852","11,566,495,000","2,543,881,000",450%,"41,804",20.9
+4A,444120,Paint and wallpaper stores,"1,606","7,008","37,180","11,435,106,000","1,237,099,000",920%,"33,273",16.64
+4A,448150,Clothing accessories stores,"3,616","8,533","68,741","10,779,091,000","1,326,807,000",810%,"19,302",9.65
+4A,446130,Optical goods stores,"4,349","12,230","79,942","10,396,643,000","2,233,657,000",470%,"27,941",13.97
+4A,451211,Book stores,"2,615","6,531","85,006","9,997,196,000","1,294,582,000",770%,"15,229",7.61
+4A,453920,Art dealers,"4,623","4,850","17,816","9,805,158,000","1,023,894,000",960%,"57,470",28.74
+4A,453991,Tobacco stores,"8,286","10,415","40,239","9,444,707,000","771,299,000",1220%,"19,168",9.58
+4A,448110,Men's clothing stores,"3,641","6,819","52,930","9,026,580,000","1,456,982,000",620%,"27,527",13.76
+4A,444210,Outdoor power equipment stores,"3,643","4,031","29,073","8,797,764,000","1,042,453,000",840%,"35,856",17.93
+4A,448130,Children's and infants' clothing stores,"1,938","6,867","77,201","7,527,665,000","1,058,166,000",710%,"13,707",6.85
+4A,454210,Vending machine operators,"3,192","3,740","41,069","7,256,085,000","1,355,502,000",540%,"33,005",16.5
+4A,446191,Food (health) supplement stores,"4,951","10,090","43,031","6,315,113,000","947,927,000",670%,"22,029",11.01
+4A,445210,Meat markets,"4,628","5,106","38,274","6,141,662,000","840,017,000",730%,"21,947",10.97
+4A,453930,Manufactured (mobile) home dealers,"1,312","1,998","10,615","5,490,908,000","492,728,000",1110%,"46,418",23.21
+4A,453110,Florists,"12,160","12,660","58,134","4,773,010,000","1,070,537,000",450%,"18,415",9.21
+4A,451140,Musical instrument and supplies stores,"2,696","3,557","28,774","4,534,986,000","735,438,000",620%,"25,559",12.78
+4A,445230,Fruit and vegetable markets,"2,607","2,691","20,997","4,212,699,000","472,679,000",890%,"22,512",11.26
+4A,451130,"Sewing, needlework, and piece goods stores","3,117","4,070","37,675","3,634,515,000","507,770,000",720%,"13,478",6.74
+4A,445299,All other specialty food stores,"4,677","6,186","45,136","3,537,619,000","670,149,000",530%,"14,847",7.42
+4A,448320,Luggage and leather goods stores,412,988,"5,754","2,883,581,000","238,365,000",1210%,"41,426",20.71
+4A,445220,Fish and seafood markets,"1,931","1,973","11,360","2,414,901,000","287,975,000",840%,"25,350",12.68
+4A,445292,Confectionery and nut stores,"2,097","3,441","23,097","2,258,336,000","356,554,000",630%,"15,437",7.72
+4A,445291,Baked goods stores,"2,229","2,800","19,000","1,745,113,000","359,094,000",490%,"18,900",9.45
+4A,442291,Window treatment stores,"1,586","1,816","7,558","1,516,952,000","267,156,000",570%,"35,347",17.67
+4A,451212,News dealers and newsstands,862,974,"3,663","405,962,000","68,720,000",590%,"18,761",9.38
+4B,481111,Scheduled passenger air transportation,312,"1,897","459,265","181,414,939,000","35,417,965,000",510%,"77,119",38.56
+4B,484121,"General freight trucking, long-distance, truckload","31,908","36,828","519,358","112,441,276,000","23,819,680,000",470%,"45,864",22.93
+4B,492110,Couriers and express delivery services,"4,215","10,139","586,320","84,714,902,000","26,554,509,000",320%,"45,290",22.65
+4B,488510,Freight transportation arrangement,"15,097","21,501","268,275","64,850,416,000","14,996,015,000",430%,"55,898",27.95
+4B,484122,"General freight trucking, long-distance, less than truckload","4,410","8,360","271,447","46,191,773,000","15,354,176,000",300%,"56,564",28.28
+4B,484220,"Specialized freight (except used goods) trucking, local","29,544","30,706","221,223","42,723,799,000","10,769,039,000",400%,"48,680",24.34
+4B,484230,"Specialized freight (except used goods) trucking, long-distance","9,222","10,939","174,571","40,835,621,000","9,213,521,000",440%,"52,778",26.39
+4B,484110,"General freight trucking, local","29,977","31,516","194,766","32,721,763,000","8,383,845,000",390%,"43,046",21.52
+4B,486210,Pipeline transportation of natural gas,126,"2,160","30,521","27,393,114,000","3,567,161,000",770%,"116,876",58.44
+4B,493110,General warehousing and storage,"5,864","12,387","804,142","24,123,906,000","33,875,310,000",70%,"42,126",21.06
+4B,483112,Deep sea passenger transportation,57,67,"16,063","22,034,888,000","1,265,972,000",1740%,"78,813",39.41
+4B,488190,Other support activities for air transportation,"3,193","3,881","91,885","17,189,316,000","5,106,146,000",340%,"55,571",27.79
+4B,484210,Used household and office goods moving,"7,668","8,454","98,742","15,616,637,000","3,580,526,000",440%,"36,261",18.13
+4B,481211,Nonscheduled chartered passenger air transportation,"1,317","1,486","28,856","14,817,804,000","2,698,394,000",550%,"93,512",46.76
+4B,485410,School and employee bus transportation,"2,670","4,389","251,330","11,279,188,000","5,588,263,000",200%,"22,235",11.12
+4B,485310,Taxi service,"3,153","3,239","34,137","10,532,205,000","1,451,040,000",730%,"42,506",21.25
+4B,486110,Pipeline transportation of crude oil,79,811,"13,239","10,529,148,000","1,408,852,000",750%,"106,417",53.21
+4B,488320,Marine cargo handling,273,483,"57,801","9,839,899,000","4,162,338,000",240%,"72,012",36.01
+4B,486910,Pipeline transportation of refined petroleum products,65,647,"8,401","8,898,242,000","965,133,000",920%,"114,883",57.44
+4B,488119,Other airport operations,"1,116","2,044","116,181","8,724,615,000","3,166,217,000",280%,"27,252",13.63
+4B,483113,Coastal and great lakes freight transportation,348,581,"17,641","7,556,840,000","1,609,371,000",470%,"91,229",45.61
+4B,493190,Other warehousing and storage,"1,423","2,707","61,945","7,359,241,000","3,339,314,000",220%,"53,908",26.95
+4B,488410,Motor vehicle towing,"8,908","9,196","64,472","7,229,404,000","2,258,192,000",320%,"35,026",17.51
+4B,483111,Deep sea freight transportation,182,267,"6,839","6,455,257,000","634,926,000",1020%,"92,839",46.42
+4B,488210,Support activities for rail transportation,557,"1,531","39,842","5,920,300,000","2,011,580,000",290%,"50,489",25.24
+4B,483211,Inland water freight transportation,266,309,"17,204","5,862,752,000","1,289,009,000",450%,"74,925",37.46
+4B,493120,Refrigerated warehousing and storage,655,"1,301","50,078","5,806,706,000","2,277,069,000",260%,"45,470",22.74
+4B,492210,Local messengers and local delivery,"3,873","4,328","46,788","5,693,059,000","1,609,291,000",350%,"34,395",17.2
+4B,485991,Special needs transportation,"3,158","3,432","75,126","5,560,032,000","2,061,419,000",270%,"27,439",13.72
+4B,481212,Nonscheduled chartered freight air transportation,173,204,"6,180","5,366,273,000","495,286,000",1080%,"80,143",40.07
+4B,481112,Scheduled freight air transportation,185,373,"8,787","5,294,899,000","622,767,000",850%,"70,874",35.44
+4B,488330,Navigational services to shipping,863,"1,040","15,549","4,317,427,000","1,185,914,000",360%,"76,269",38.13
+4B,485320,Limousine service,"4,749","4,822","40,496","4,284,730,000","1,103,883,000",390%,"27,259",13.63
+4B,485113,Bus and other motor vehicle transit systems,369,636,"54,774","4,114,456,000","2,446,032,000",170%,"44,657",22.33
+4B,485510,Charter bus industry,"1,178","1,308","35,210","3,635,220,000","1,093,181,000",330%,"31,047",15.52
+4B,488490,Other support activities for road transportation,"1,767","3,271","39,986","3,522,814,000","1,246,666,000",280%,"31,178",15.59
+4B,488310,Port and harbor operations,272,348,"10,834","3,213,258,000","693,144,000",460%,"63,979",31.99
+4B,487210,"Scenic and sightseeing transportation, water","1,813","1,863","16,069","2,186,304,000","617,136,000",350%,"38,405",19.2
+4B,488991,Packing and crating,"1,550","1,640","15,266","2,167,134,000","520,251,000",420%,"34,079",17.04
+4B,481219,Other nonscheduled air transportation,449,490,"5,212","1,936,258,000","417,987,000",460%,"80,197",40.1
+4B,485999,All other transit and ground passenger transportation,"1,508","1,738","22,835","1,766,763,000","606,659,000",290%,"26,567",13.28
+4B,485210,Interurban and rural bus transportation,341,590,"15,509","1,730,251,000","550,462,000",310%,"35,493",17.75
+4B,488390,Other support activities for water transportation,686,805,"7,799","1,638,682,000","457,362,000",360%,"58,644",29.32
+4B,487110,"Scenic and sightseeing transportation, land",698,743,"11,844","1,242,727,000","371,950,000",330%,"31,404",15.7
+4B,493130,Farm product warehousing and storage,374,561,"5,155","796,012,000","234,326,000",340%,"45,456",22.73
+4B,487990,"Scenic and sightseeing transportation, other",225,259,"4,089","733,083,000","167,765,000",440%,"41,028",20.51
+4B,485112,Commuter rail systems,8,16,"3,582","721,939,000","305,069,000",240%,"85,167",42.58
+4B,483114,Coastal and great lakes passenger transportation,138,146,"2,037","576,830,000","126,397,000",460%,"62,051",31.03
+4B,483212,Inland water passenger transportation,251,273,"2,961","522,853,000","156,956,000",330%,"53,008",26.5
+4B,486990,All other pipeline transportation,15,70,423,"372,113,000","38,380,000",970%,"90,733",45.37
+4B,485119,Other urban transit systems,55,63,"1,511","347,582,000","87,959,000",400%,"58,212",29.11
+4B,488111,Air traffic control,13,190,"1,248","195,733,000","100,970,000",190%,"80,905",40.45
+4B,488999,All other support activities for transportation,20,26,384,"157,020,000","38,418,000",410%,"100,047",50.02
+4B,485111,Mixed mode transit systems,30,34,733,"68,008,000","26,295,000",260%,"35,873",17.94
+51,517311,Wired telecommunications carriers,"3,396","30,332","707,448","320,758,301,000","56,657,177,000",570%,"80,087",40.04
+51,511210,Software publishers,"9,999","13,371","647,283","276,234,048,000","102,415,343,000",270%,"158,223",79.11
+51,517312,Wireless telecommunications carriers (except satellite),"4,323","25,736","311,854","254,081,539,000","19,775,910,000",1280%,"63,414",31.71
+51,519130,Internet publishing and broadcasting and web search portals,"6,518","8,136","266,555","165,430,087,000","56,351,290,000",290%,"211,406",105.7
+51,518210,"Data processing, hosting, and related services","10,859","17,693","552,711","157,477,302,000","53,787,164,000",290%,"97,315",48.66
+51,515210,Cable and other subscription programming,378,706,"52,199","89,101,295,000","7,261,888,000",1230%,"139,119",69.56
+51,512110,Motion picture and video production,"13,812","14,352","130,640","65,876,062,000","11,619,691,000",570%,"88,944",44.47
+51,515120,Television broadcasting,829,"2,123","118,173","56,242,118,000","10,597,143,000",530%,"89,675",44.84
+51,511130,Book publishers,"2,094","2,462","74,645","29,116,088,000","5,646,795,000",520%,"75,649",37.82
+51,511120,Periodical publishers,"4,441","5,283","86,635","26,733,412,000","6,803,321,000",390%,"78,529",39.26
+51,511110,Newspaper publishers,"4,201","7,230","173,635","26,011,870,000","7,799,424,000",330%,"44,919",22.46
+51,517911,Telecommunications resellers,"1,714","2,326","27,116","18,494,737,000","1,705,297,000",1080%,"62,889",31.44
+51,517919,All other telecommunications,"1,384","1,639","29,569","17,723,157,000","2,986,913,000",590%,"101,015",50.51
+51,512131,Motion picture theaters (except drive-ins),"1,899","4,473","151,651","15,834,092,000","1,912,695,000",830%,"12,612",6.31
+51,515112,Radio stations,"2,963","4,684","79,784","12,704,996,000","4,351,452,000",290%,"54,540",27.27
+51,515111,Radio networks,344,756,"11,651","7,922,057,000","1,128,029,000",700%,"96,818",48.41
+51,512250,Record production and distribution,587,690,"9,180","7,343,848,000","1,322,951,000",560%,"144,112",72.06
+51,517410,Satellite telecommunications,357,441,"8,968","5,741,850,000","899,787,000",640%,"100,333",50.17
+51,512191,Teleproduction and other postproduction services,"2,475","2,576","28,529","5,079,952,000","1,916,827,000",270%,"67,189",33.59
+51,511140,Directory and mailing list publishers,533,758,"14,382","4,968,109,000","1,177,783,000",420%,"81,893",40.95
+51,512230,Music publishers,655,709,"6,197","4,652,658,000","534,511,000",870%,"86,253",43.13
+51,511191,Greeting card publishers,102,113,"13,678","3,731,821,000","684,237,000",550%,"50,025",25.01
+51,519190,All other information services,990,"1,038","8,644","2,593,106,000","670,300,000",390%,"77,545",38.77
+51,519120,Libraries and archives,"1,943","2,323","27,218","2,234,283,000","870,908,000",260%,"31,998",16
+51,512120,Motion picture and video distribution,340,347,"3,196","1,424,164,000","247,647,000",580%,"77,487",38.74
+51,519110,News syndicates,202,422,"6,531","1,397,739,000","544,775,000",260%,"83,414",41.71
+51,511199,All other publishers,530,538,"5,403","1,311,844,000","330,332,000",400%,"61,139",30.57
+51,512240,Sound recording studios,"1,802","1,863","5,421","921,528,000","293,552,000",310%,"54,151",27.08
+51,512290,Other sound recording industries,403,438,"3,571","583,264,000","187,792,000",310%,"52,588",26.29
+51,512199,Other motion picture and video industries,178,179,"1,299","239,199,000","75,074,000",320%,"57,794",28.9
+51,512132,Drive-in motion picture theaters,178,191,"1,297","133,085,000","23,530,000",570%,"18,142",9.07
+52,524114,Direct health and medical insurance carriers,733,"5,421","543,943","855,939,898,000","45,226,005,000",1890%,"83,145",41.57
+52,524126,Direct property and casualty insurance carriers,"2,326","13,117","597,408","554,818,150,000","52,574,064,000",1060%,"88,004",44
+52,524113,Direct life insurance carriers,599,"8,580","331,020","501,786,132,000","36,308,166,000",1380%,"109,686",54.84
+52,522110,Commercial banking,"5,009","92,063","1,606,404","465,245,474,000","130,408,773,000",360%,"81,181",40.59
+52,523920,Portfolio management,"24,317","42,671","369,419","245,532,424,000","84,745,550,000",290%,"229,402",114.7
+52,524292,Third party administration of insurance and pension funds,"2,763","4,483","212,407","176,829,332,000","14,029,832,000",1260%,"66,052",33.03
+52,524210,Insurance agencies and brokerages,"123,933","136,587","733,127","137,747,649,000","48,300,933,000",290%,"65,883",32.94
+52,522210,Credit card issuing,67,658,"67,681","128,445,385,000","5,589,550,000",2300%,"82,587",41.29
+52,523120,Securities brokerage,"6,916","23,295","259,648","126,532,291,000","46,530,897,000",270%,"179,208",89.6
+52,521110,Monetary authorities - central bank,12,57,"19,189","116,892,000,000","2,268,091,000",5150%,"118,197",59.1
+52,522220,Sales financing,"2,376","4,194","94,656","114,879,189,000","8,869,979,000",1300%,"93,708",46.85
+52,523110,Investment banking and securities dealing,"2,367","3,793","97,762","104,943,116,000","33,373,779,000",310%,"341,378",170.69
+52,522292,Real estate credit,"3,311","14,968","275,410","91,028,629,000","26,403,585,000",340%,"95,870",47.94
+52,522320,"Financial transactions processing, reserve, and clearinghouse activities","3,049","4,356","165,746","78,455,444,000","14,714,030,000",530%,"88,775",44.39
+52,524130,Reinsurance carriers,138,397,"13,880","66,638,710,000","2,517,768,000",2650%,"181,395",90.7
+52,522130,Credit unions,"5,320","19,312","290,249","65,100,059,000","15,525,364,000",420%,"53,490",26.75
+52,523930,Investment advice,"17,335","19,136","98,211","40,074,534,000","11,557,351,000",350%,"117,679",58.84
+52,522291,Consumer lending,"3,017","14,266","93,991","36,539,412,000","5,800,887,000",630%,"61,717",30.86
+52,523910,Miscellaneous intermediation,"8,315","8,541","51,026","29,991,303,000","8,811,680,000",340%,"172,690",86.35
+52,522390,Other activities related to credit intermediation,"3,769","15,831","102,392","19,230,757,000","4,674,243,000",410%,"45,650",22.83
+52,523991,"Trust, fiduciary, and custody activities","1,896","2,254","34,739","16,245,152,000","3,311,188,000",490%,"95,316",47.66
+52,524128,"Other direct insurance (except life, health, and medical) carriers",353,500,"26,544","15,951,099,000","1,893,639,000",840%,"71,340",35.67
+52,524127,Direct title insurance carriers,762,"3,890","52,599","14,635,255,000","4,092,191,000",360%,"77,800",38.9
+52,523210,Securities and commodity exchanges,13,36,"5,954","11,826,979,000","1,230,022,000",960%,"206,588",103.29
+52,522310,Mortgage and nonmortgage loan brokers,"6,813","7,623","46,646","10,219,702,000","4,041,968,000",250%,"86,652",43.33
+52,524291,Claims adjusting,"3,386","4,577","40,410","8,155,068,000","3,103,604,000",260%,"76,803",38.4
+52,523999,Miscellaneous financial investment activities,925,"1,039","18,366","8,121,627,000","2,376,759,000",340%,"129,411",64.71
+52,524298,All other insurance related activities,"2,283","2,692","31,903","7,944,549,000","2,581,277,000",310%,"80,910",40.46
+52,523130,Commodity contracts dealing,606,810,"8,756","7,132,181,000","1,699,100,000",420%,"194,050",97.03
+52,523140,Commodity contracts brokerage,848,980,"10,060","5,496,244,000","1,436,660,000",380%,"142,809",71.4
+52,522293,International trade financing,160,166,645,"535,836,000","85,330,000",630%,"132,295",66.15
+53,531120,Lessors of nonresidential buildings (except miniwarehouses),"30,746","34,979","182,905","120,411,787,000","11,229,912,000",1070%,"61,398",30.7
+53,531110,Lessors of residential buildings and dwellings,"52,390","71,835","351,289","118,349,533,000","13,555,607,000",870%,"38,588",19.29
+53,531210,Offices of real estate agents and brokers,"106,579","121,906","329,556","112,933,784,000","20,430,877,000",550%,"61,995",31
+53,533110,Lessors of nonfinancial intangible assets (except copyrighted works),"2,520","2,760","36,607","47,201,471,000","3,982,389,000",1190%,"108,788",54.39
+53,531311,Residential property managers,"35,727","49,529","449,362","45,761,174,000","19,134,335,000",240%,"42,581",21.29
+53,532490,Other commercial and industrial machinery and equipment rental and leasing,"4,884","9,388","118,005","30,669,912,000","6,649,150,000",460%,"56,346",28.17
+53,532111,Passenger car rental,"1,921","12,209","98,870","29,837,913,000","3,473,198,000",860%,"35,129",17.56
+53,531312,Nonresidential property managers,"15,512","18,131","159,333","27,352,083,000","11,098,158,000",250%,"69,654",34.83
+53,532412,"Construction, mining, and forestry machinery and equipment rental and leasing","2,509","4,690","60,260","24,451,034,000","4,294,822,000",570%,"71,272",35.64
+53,532120,"Truck, utility trailer, and RV (recreational vehicle) rental and leasing","1,666","6,394","58,781","22,485,873,000","3,008,432,000",750%,"51,180",25.59
+53,531390,Other activities related to real estate,"15,516","16,086","62,105","16,991,154,000","4,923,205,000",350%,"79,272",39.64
+53,531130,Lessors of miniwarehouses and self-storage units,"9,289","16,428","42,762","12,634,255,000","1,204,320,000",1050%,"28,163",14.08
+53,532112,Passenger car leasing,399,538,"8,545","10,818,519,000","673,357,000",1610%,"78,801",39.4
+53,531190,Lessors of other real estate property,"7,520","8,778","31,112","7,976,714,000","1,078,785,000",740%,"34,674",17.34
+53,532210,Consumer electronics and appliances rental,527,"7,019","34,524","6,924,179,000","1,177,271,000",590%,"34,100",17.05
+53,531320,Offices of real estate appraisers,"12,686","13,241","35,144","6,584,399,000","1,914,414,000",340%,"54,473",27.24
+53,532289,All other consumer goods rental,"3,795","4,850","45,368","5,226,480,000","1,627,744,000",320%,"35,879",17.94
+53,532283,Home health equipment rental,603,"2,755","28,548","4,080,431,000","1,231,862,000",330%,"43,151",21.58
+53,532310,General rental centers,"2,272","2,884","19,457","3,229,045,000","779,028,000",410%,"40,038",20.02
+53,532420,Office machinery and equipment rental and leasing,435,820,"8,534","2,939,341,000","572,802,000",510%,"67,120",33.56
+53,532282,Video tape and disc rental,865,"1,683","10,875","2,128,154,000","207,917,000",1020%,"19,119",9.56
+53,532284,Recreational goods rental,"2,191","2,327","11,870","1,384,952,000","350,307,000",400%,"29,512",14.76
+53,532281,Formal wear and costume rental,598,943,"6,356","692,649,000","184,498,000",380%,"29,027",14.51
+54,541110,Offices of lawyers,"163,655","172,976","1,085,758","283,430,579,000","101,418,421,000",280%,"93,408",46.7
+54,541330,Engineering services,"46,040","61,878","1,081,471","237,304,067,000","94,333,086,000",250%,"87,227",43.61
+54,541512,Computer systems design services,"43,913","58,346","792,112","204,181,874,000","76,107,165,000",270%,"96,081",48.04
+54,541511,Custom computer programming services,"62,244","66,919","880,058","194,565,960,000","81,785,502,000",240%,"92,932",46.47
+54,541611,Administrative management and general management consulting services,"73,582","78,111","594,865","131,766,706,000","54,812,273,000",240%,"92,142",46.07
+54,541211,Offices of certified public accountants,"53,122","56,665","507,216","103,313,505,000","38,010,951,000",270%,"74,940",37.47
+54,541715,"Research and development in the physical, engineering, and life sciences (except nanotechnology and biotechnology)","7,245","9,248","487,949","94,104,643,000","54,708,998,000",170%,"112,120",56.06
+54,541810,Advertising agencies,"12,286","13,682","197,494","46,241,181,000","16,872,044,000",270%,"85,431",42.72
+54,541613,Marketing consulting services,"36,548","37,387","216,548","43,483,654,000","13,197,193,000",330%,"60,943",30.47
+54,541940,Veterinary services,"28,302","31,787","356,568","41,692,570,000","13,804,247,000",300%,"38,714",19.36
+54,541310,Architectural services,"20,875","21,996","178,141","37,805,430,000","14,143,886,000",270%,"79,397",39.7
+54,541713,Research and development in nanotechnology,"3,791","4,375","164,654","34,648,992,000","18,060,067,000",190%,"109,685",54.84
+54,541690,Other scientific and technical consulting services,"24,699","25,585","135,424","29,116,015,000","10,482,026,000",280%,"77,402",38.7
+54,541714,Research and development in biotechnology (except nanobiotechnology),"2,871","3,154","95,513","24,559,814,000","14,409,881,000",170%,"150,868",75.43
+54,541519,Other computer related services,"8,906","10,395","114,871","24,053,509,000","10,922,311,000",220%,"95,083",47.54
+54,541214,Payroll services,"4,304","5,725","216,226","21,946,106,000","12,376,614,000",180%,"57,239",28.62
+54,541380,Testing laboratories,"5,273","7,058","135,438","20,550,875,000","8,463,574,000",240%,"62,490",31.25
+54,541219,Other accounting services,"39,550","40,814","240,350","20,067,349,000","10,129,848,000",200%,"42,146",21.07
+54,541513,Computer facilities management services,"5,377","7,769","107,627","20,025,299,000","8,508,150,000",240%,"79,052",39.53
+54,541910,Marketing research and public opinion polling,"4,281","5,152","97,458","19,830,495,000","7,195,650,000",280%,"73,833",36.92
+54,541612,Human resources consulting services,"6,962","8,011","122,315","18,177,971,000","8,772,514,000",210%,"71,721",35.86
+54,541990,"All other professional, scientific, and technical services","16,900","18,036","95,841","16,348,492,000","5,467,134,000",300%,"57,044",28.52
+54,541614,"Process, physical distribution, and logistics consulting services","7,308","8,375","77,539","15,988,721,000","4,674,091,000",340%,"60,281",30.14
+54,541620,Environmental consulting services,"8,508","10,250","86,406","15,590,324,000","5,686,375,000",270%,"65,810",32.91
+54,541890,Other services related to advertising,"6,776","7,661","103,165","14,767,380,000","3,470,996,000",430%,"33,645",16.82
+54,541820,Public relations agencies,"7,843","8,438","56,260","12,505,299,000","5,381,052,000",230%,"95,646",47.82
+54,541410,Interior design services,"13,040","13,240","45,443","12,203,151,000","2,473,923,000",490%,"54,440",27.22
+54,541860,Direct mail advertising,"2,298","2,523","48,150","9,597,612,000","2,593,211,000",370%,"53,857",26.93
+54,541191,Title abstract and settlement offices,"6,841","9,461","63,618","9,545,423,000","3,400,063,000",280%,"53,445",26.72
+54,541830,Media buying agencies,793,989,"24,599","8,780,185,000","2,309,472,000",380%,"93,885",46.94
+54,541430,Graphic design services,"15,446","15,581","54,233","8,551,071,000","2,988,312,000",290%,"55,101",27.55
+54,541850,Outdoor advertising,"2,071","2,626","26,499","7,979,041,000","1,435,437,000",560%,"54,169",27.08
+54,541370,Surveying and mapping (except geophysical) services,"7,444","7,757","53,853","7,144,964,000","2,959,245,000",240%,"54,950",27.48
+54,541213,Tax preparation services,"16,746","30,025","170,111","7,052,783,000","2,130,587,000",330%,"12,525",6.26
+54,541720,Research and development in the social sciences and humanities,"1,706","1,921","45,746","7,048,738,000","3,092,569,000",230%,"67,603",33.8
+54,541199,All other legal services,"3,784","4,016","24,974","4,723,508,000","1,311,044,000",360%,"52,496",26.25
+54,541618,Other management consulting services,"7,363","7,420","22,243","4,708,143,000","1,631,471,000",290%,"73,348",36.67
+54,541930,Translation and interpretation services,"2,482","2,605","35,105","4,448,611,000","1,445,791,000",310%,"41,185",20.59
+54,541921,"Photography studios, portrait","8,291","10,400","46,781","4,152,936,000","1,129,917,000",370%,"24,153",12.08
+54,541320,Landscape architectural services,"4,918","5,089","26,552","4,144,423,000","1,548,037,000",270%,"58,302",29.15
+54,541870,Advertising material distribution services,623,699,"13,943","3,610,557,000","746,837,000",480%,"53,564",26.78
+54,541840,Media representatives,"1,132","1,294","12,515","3,218,975,000","1,004,882,000",320%,"80,294",40.15
+54,541350,Building inspection services,"6,450","6,568","22,207","2,741,178,000","962,413,000",280%,"43,338",21.67
+54,541420,Industrial design services,"1,528","1,552","12,325","2,162,104,000","919,434,000",240%,"74,599",37.3
+54,541922,Commercial photography,"4,193","4,229","12,388","2,130,678,000","563,053,000",380%,"45,451",22.73
+54,541490,Other specialized design services,"2,375","2,394","9,777","1,966,470,000","529,561,000",370%,"54,164",27.08
+54,541360,Geophysical surveying and mapping services,804,855,"7,584","1,663,898,000","543,010,000",310%,"71,599",35.8
+54,541340,Drafting services,"2,562","2,587","9,453","1,139,693,000","458,540,000",250%,"48,507",24.25
+55,551112,Offices of other holding companies,"7,873","8,649","115,860","67,522,675,000","8,900,553,000",760%,"76,822",38.41
+55,551114,"Corporate, subsidiary, and regional managing offices","20,691","48,514","3,432,027","41,191,369,000","357,158,904,000",10%,"104,066",52.03
+55,551111,Offices of bank holding companies,"1,981","2,061","23,522","12,812,081,000","1,643,437,000",780%,"69,868",34.93
+56,561320,Temporary help services,"14,440","37,391","3,441,456","180,118,404,000","112,659,568,000",160%,"32,736",16.37
+56,561330,Professional employer organizations,"2,886","3,769","2,689,671","177,826,949,000","144,637,970,000",120%,"53,775",26.89
+56,561730,Landscaping services,"102,311","104,298","720,702","77,033,774,000","24,957,671,000",310%,"34,630",17.32
+56,561110,Office administrative services,"31,170","33,930","481,884","58,930,180,000","29,055,035,000",200%,"60,295",30.15
+56,561720,Janitorial services,"55,656","60,337","1,084,801","49,679,675,000","22,312,322,000",220%,"20,568",10.28
+56,562111,Solid waste collection,"6,781","10,469","202,395","49,228,087,000","11,384,254,000",430%,"56,248",28.12
+56,561612,Security guards and patrol services,"6,711","9,457","751,348","29,616,794,000","19,146,998,000",150%,"25,484",12.74
+56,561210,Facilities support services,"2,131","6,712","270,760","28,571,289,000","11,507,050,000",250%,"42,499",21.25
+56,561510,Travel agencies,"9,258","13,781","109,519","27,511,566,000","6,551,758,000",420%,"59,823",29.91
+56,561621,Security systems services (except locksmiths),"5,749","7,098","131,394","22,267,571,000","6,422,514,000",350%,"48,880",24.44
+56,561990,All other support services,"11,539","13,154","161,115","21,936,240,000","6,568,345,000",330%,"40,768",20.38
+56,561422,Telemarketing bureaus and other contact centers,"2,763","4,062","399,978","19,486,332,000","11,021,490,000",180%,"27,555",13.78
+56,561599,All other travel arrangement and reservation services,"1,702","3,028","88,749","16,995,623,000","4,823,463,000",350%,"54,349",27.17
+56,561920,Convention and trade show organizers,"5,029","5,319","93,091","16,361,266,000","3,912,756,000",420%,"42,032",21.02
+56,562910,Remediation services,"3,886","4,809","85,402","16,075,895,000","4,722,881,000",340%,"55,302",27.65
+56,561440,Collection agencies,"3,228","3,899","138,521","15,171,117,000","5,601,827,000",270%,"40,440",20.22
+56,561710,Exterminating and pest control services,"12,376","14,484","117,097","13,088,972,000","4,907,860,000",270%,"41,913",20.96
+56,561311,Employment placement agencies,"5,370","6,036","185,806","12,345,111,000","6,337,414,000",190%,"34,108",17.05
+56,561450,Credit bureaus,307,504,"24,509","10,151,879,000","3,277,354,000",310%,"133,720",66.86
+56,561499,All other business support services,"3,216","3,723","57,152","8,938,987,000","2,604,408,000",340%,"45,570",22.79
+56,562211,Hazardous waste treatment and disposal,416,867,"34,035","8,711,782,000","2,312,809,000",380%,"67,954",33.98
+56,561520,Tour operators,"2,691","2,936","36,373","8,425,053,000","1,646,862,000",510%,"45,277",22.64
+56,561790,Other services to buildings and dwellings,"13,552","13,688","73,473","7,891,059,000","2,389,081,000",330%,"32,516",16.26
+56,562212,Solid waste landfill,662,"1,434","20,525","7,534,598,000","1,036,069,000",730%,"50,478",25.24
+56,561910,Packaging and labeling services,"1,451","1,647","43,714","7,299,300,000","1,677,097,000",440%,"38,365",19.18
+56,561312,Executive search services,"5,771","6,046","34,777","6,968,477,000","3,401,289,000",200%,"97,803",48.9
+56,561439,Other business service centers (including copy shops),"2,145","5,395","56,154","6,243,420,000","2,148,782,000",290%,"38,266",19.13
+56,562920,Materials recovery facilities,"1,006","1,391","21,840","5,940,073,000","853,185,000",700%,"39,065",19.53
+56,561611,Investigation services,"3,920","4,186","44,007","5,893,086,000","2,052,939,000",290%,"46,650",23.33
+56,562991,Septic tank and related services,"3,429","3,547","25,960","3,919,634,000","1,078,663,000",360%,"41,551",20.78
+56,561740,Carpet and upholstery cleaning services,"7,293","7,493","38,067","3,425,573,000","1,138,463,000",300%,"29,907",14.95
+56,561410,Document preparation services,"3,586","3,830","43,349","3,285,030,000","1,304,524,000",250%,"30,094",15.05
+56,561613,Armored car services,95,830,"34,436","3,109,715,000","1,264,044,000",250%,"36,707",18.35
+56,561431,Private mail centers,"4,389","4,812","26,272","2,829,066,000","614,785,000",460%,"23,401",11.7
+56,561492,Court reporting and stenotype services,"3,062","3,246","12,395","2,425,671,000","561,149,000",430%,"45,272",22.64
+56,561591,Convention and visitors bureaus,921,990,"10,880","2,239,436,000","531,073,000",420%,"48,812",24.41
+56,561421,Telephone answering services,"1,067","1,212","35,400","2,225,872,000","982,490,000",230%,"27,754",13.88
+56,562112,Hazardous waste collection,303,439,"9,156","2,099,871,000","512,916,000",410%,"56,020",28.01
+56,562998,All other miscellaneous waste management services,"1,087","1,159","14,701","2,063,199,000","703,759,000",290%,"47,872",23.94
+56,561622,Locksmiths,"3,780","3,873","16,201","2,016,083,000","609,237,000",330%,"37,605",18.8
+56,562119,Other waste collection,746,816,"8,800","1,925,982,000","349,969,000",550%,"39,769",19.88
+56,562213,Solid waste combustors and incinerators,38,61,"2,246","1,274,666,000","185,996,000",690%,"82,812",41.41
+56,561491,Repossession services,706,816,"8,280","997,616,000","271,885,000",370%,"32,836",16.42
+56,562219,Other nonhazardous waste treatment and disposal,225,285,"2,778","814,950,000","151,453,000",540%,"54,519",27.26
+61,611710,Educational support services,"7,972","8,732","103,121","16,365,974,000","5,259,710,000",310%,"51,005",25.5
+61,611430,Professional and management development training,"6,379","6,728","49,919","9,347,157,000","3,195,761,000",290%,"64,019",32.01
+61,611620,Sports and recreation instruction,"16,189","16,906","138,276","7,846,568,000","2,408,646,000",330%,"17,419",8.71
+61,611519,Other technical and trade schools,"3,565","4,319","55,767","6,460,353,000","2,213,675,000",290%,"39,695",19.85
+61,611610,Fine arts schools,"14,531","14,840","107,796","5,345,566,000","1,700,089,000",310%,"15,771",7.89
+61,611691,Exam preparation and tutoring,"8,162","9,467","112,849","5,242,835,000","2,037,342,000",260%,"18,054",9.03
+61,611699,All other miscellaneous schools and instruction,"6,032","6,558","54,964","3,685,299,000","1,215,531,000",300%,"22,115",11.06
+61,611512,Flight training,784,959,"16,445","3,247,550,000","806,253,000",400%,"49,027",24.51
+61,611420,Computer training,"1,387","1,718","14,249","2,536,674,000","913,360,000",280%,"64,100",32.05
+61,611513,Apprenticeship training,"1,080","1,207","13,813","1,643,030,000","460,806,000",360%,"33,360",16.68
+61,611511,Cosmetology and barber schools,"1,311","1,696","16,992","1,626,503,000","526,100,000",310%,"30,962",15.48
+61,611630,Language schools,"1,287","1,563","21,414","1,365,568,000","485,572,000",280%,"22,675",11.34
+61,611692,Automobile driving schools,"2,341","2,558","15,542","845,874,000","307,162,000",280%,"19,763",9.88
+61,611410,Business and secretarial schools,66,83,"1,676","159,455,000","58,565,000",270%,"34,943",17.47
+62,622110,General medical and surgical hospitals,"2,526","5,109","5,670,840","1,002,851,309,000","355,043,769,000",280%,"62,609",31.3
+62,621111,Offices of physicians (except mental health specialists),"161,603","212,313","2,494,712","469,831,615,000","210,577,594,000",220%,"84,410",42.21
+62,621210,Offices of dentists,"125,343","136,445","973,384","125,877,681,000","46,106,974,000",270%,"47,368",23.68
+62,623110,Nursing care facilities (skilled nursing facilities),"9,233","16,859","1,621,944","118,876,954,000","50,839,119,000",230%,"31,345",15.67
+62,621610,Home health care services,"23,879","33,611","1,422,818","84,499,000,000","41,220,839,000",200%,"28,971",14.49
+62,621498,All other outpatient care centers,"6,181","13,827","394,150","53,437,618,000","23,496,303,000",230%,"59,613",29.81
+62,624120,Services for the elderly and persons with disabilities,"24,505","31,533","1,204,690","48,792,565,000","23,480,205,000",210%,"19,491",9.75
+62,622310,Specialty (except psychiatric and substance abuse) hospitals,297,868,"266,418","44,263,494,000","15,822,723,000",280%,"59,391",29.7
+62,624410,Child day care services,"61,201","77,366","967,435","41,186,279,000","20,075,021,000",210%,"20,751",10.38
+62,621511,Medical laboratories,"3,345","10,486","191,820","35,293,929,000","11,708,136,000",300%,"61,037",30.52
+62,624190,Other individual and family services,"21,412","28,898","412,311","35,186,696,000","13,148,245,000",270%,"31,889",15.94
+62,623311,Continuing care retirement communities,"3,791","5,367","480,844","34,572,829,000","13,342,997,000",260%,"27,749",13.87
+62,621491,HMO medical centers,17,"1,641","155,485","34,384,631,000","15,612,021,000",220%,"100,409",50.2
+62,621340,"Offices of physical, occupational and speech therapists, and audiologists","26,852","40,630","377,236","31,514,924,000","15,522,005,000",200%,"41,147",20.57
+62,621493,Freestanding ambulatory surgical and emergency centers,"4,427","7,752","165,143","30,909,186,000","8,432,326,000",370%,"51,061",25.53
+62,623312,Assisted living facilities for the elderly,"14,420","19,960","485,830","30,249,674,000","11,172,554,000",270%,"22,997",11.5
+62,623210,Residential intellectual and developmental disability facilities,"6,911","34,146","580,691","27,939,927,000","14,400,624,000",190%,"24,799",12.4
+62,621492,Kidney dialysis centers,426,"7,761","124,882","24,676,692,000","6,099,593,000",400%,"48,843",24.42
+62,622210,Psychiatric and substance abuse hospitals,421,655,"236,893","23,750,364,000","12,115,897,000",200%,"51,145",25.57
+62,621420,Outpatient mental health and substance abuse centers,"6,588","12,061","270,982","21,702,811,000","10,374,927,000",210%,"38,286",19.14
+62,621512,Diagnostic imaging centers,"4,259","6,318","93,223","18,316,496,000","5,857,467,000",310%,"62,833",31.42
+62,624110,Child and youth services,"9,005","12,193","207,678","16,645,883,000","6,485,853,000",260%,"31,230",15.62
+62,623220,Residential mental health and substance abuse facilities,"4,171","7,981","214,067","16,081,220,000","7,077,966,000",230%,"33,064",16.53
+62,621910,Ambulance services,"3,058","5,466","182,250","15,666,837,000","6,592,537,000",240%,"36,173",18.09
+62,621320,Offices of optometrists,"19,627","22,390","128,868","15,501,443,000","4,995,374,000",310%,"38,763",19.38
+62,621310,Offices of chiropractors,"38,704","39,355","138,133","13,431,477,000","4,339,731,000",310%,"31,417",15.71
+62,624310,Vocational rehabilitation services,"4,012","7,428","281,130","12,801,534,000","5,893,475,000",220%,"20,964",10.48
+62,624230,Emergency and other relief services,564,"1,033","25,014","11,733,247,000","1,149,629,000",1020%,"45,959",22.98
+62,621991,Blood and organ banks,326,"1,562","72,833","11,659,351,000","3,450,187,000",340%,"47,371",23.69
+62,621999,All other miscellaneous ambulatory health care services,"3,548","4,371","72,414","11,598,276,000","3,780,241,000",310%,"52,203",26.1
+62,624210,Community food services,"3,423","4,771","41,028","11,497,097,000","1,243,335,000",920%,"30,305",15.15
+62,621399,Offices of all other miscellaneous health practitioners,"18,676","21,844","84,598","10,001,960,000","3,532,637,000",280%,"41,758",20.88
+62,621330,Offices of mental health practitioners (except physicians),"24,299","25,360","118,921","8,982,400,000","3,960,213,000",230%,"33,301",16.65
+62,623990,Other residential care facilities,"3,129","5,061","118,628","7,805,221,000","3,739,495,000",210%,"31,523",15.76
+62,624229,Other community housing services,"3,498","4,485","52,299","7,260,434,000","1,927,029,000",380%,"36,846",18.42
+62,621112,"Offices of physicians, mental health specialists","10,466","10,729","40,984","5,839,387,000","2,490,496,000",230%,"60,768",30.38
+62,624221,Temporary shelters,"3,295","4,196","75,624","5,693,195,000","2,277,585,000",250%,"30,117",15.06
+62,621391,Offices of podiatrists,"7,316","8,104","37,257","4,621,008,000","1,626,268,000",280%,"43,650",21.83
+62,621410,Family planning centers,"1,447","2,310","23,045","2,968,631,000","1,044,792,000",280%,"45,337",22.67
+71,711211,Sports teams and clubs,713,775,"73,807","34,248,576,000","19,404,220,000",180%,"262,905",131.45
+71,713940,Fitness and recreational sports centers,"30,013","36,655","745,788","33,041,367,000","10,562,409,000",310%,"14,163",7.08
+71,713910,Golf courses and country clubs,"9,883","10,865","305,115","23,090,144,000","9,162,946,000",250%,"30,031",15.02
+71,711510,"Independent artists, writers, and performers","28,647","28,694","49,157","19,914,107,000","7,668,537,000",260%,"156,001",78
+71,713110,Amusement and theme parks,284,352,"160,978","17,815,792,000","4,140,837,000",430%,"25,723",12.86
+71,713210,Casinos (except casino hotels),190,255,"83,296","15,951,218,000","2,914,120,000",550%,"34,985",17.49
+71,711310,"Promoters of performing arts, sports, and similar events with facilities","3,178","3,489","132,457","14,865,979,000","3,225,251,000",460%,"24,349",12.17
+71,711320,"Promoters of performing arts, sports, and similar events without facilities","4,439","4,583","34,951","14,500,636,000","1,758,425,000",820%,"50,311",25.16
+71,712110,Museums,"4,999","5,140","97,564","13,190,159,000","3,458,058,000",380%,"35,444",17.72
+71,713990,All other amusement and recreation industries,"18,405","19,228","158,656","12,365,041,000","3,184,341,000",390%,"20,071",10.04
+71,713290,Other gambling industries,"1,721","2,783","51,642","9,632,901,000","1,555,173,000",620%,"30,114",15.06
+71,711212,Racetracks,518,584,"40,090","8,284,692,000","1,224,722,000",680%,"30,549",15.27
+71,711410,"Agents and managers for artists, athletes, entertainers, and other public figures","3,919","4,111","21,899","7,867,954,000","2,408,168,000",330%,"109,967",54.98
+71,711110,Theater companies and dinner theaters,"3,143","3,244","66,566","7,712,744,000","2,150,834,000",360%,"32,311",16.16
+71,711130,Musical groups and artists,"4,822","4,828","38,176","6,019,873,000","1,844,472,000",330%,"48,315",24.16
+71,713930,Marinas,"3,533","3,716","28,880","4,539,115,000","1,098,321,000",410%,"38,031",19.02
+71,712130,Zoos and botanical gardens,621,646,"39,987","4,442,690,000","1,326,593,000",330%,"33,176",16.59
+71,711219,Other spectator sports,"2,499","2,541","15,954","3,667,895,000","995,299,000",370%,"62,386",31.19
+71,713120,Amusement arcades,"2,825","3,965","64,539","3,576,262,000","999,324,000",360%,"15,484",7.74
+71,713950,Bowling centers,"3,123","3,613","67,712","3,480,185,000","1,038,869,000",340%,"15,342",7.67
+71,713920,Skiing facilities,307,336,"76,580","2,989,441,000","949,094,000",310%,"12,393",6.2
+71,711190,Other performing arts companies,168,176,"5,760","1,583,502,000","263,063,000",600%,"45,671",22.84
+71,712120,Historical sites,956,"1,106","12,750","1,111,064,000","353,377,000",310%,"27,716",13.86
+71,712190,Nature parks and other similar institutions,550,665,"7,712","887,559,000","275,534,000",320%,"35,728",17.86
+71,711120,Dance companies,583,588,"10,263","841,131,000","293,978,000",290%,"28,644",14.32
+72,722511,Full-service restaurants,"217,166","250,843","5,456,424","298,163,647,000","101,475,047,000",290%,"18,597",9.3
+72,722513,Limited-service restaurants,"157,214","252,884","4,496,929","253,349,033,000","65,343,742,000",390%,"14,531",7.27
+72,721110,Hotels (except casino hotels) and motels,"42,847","53,978","1,608,327","184,410,520,000","44,367,619,000",420%,"27,586",13.79
+72,721120,Casino hotels,259,419,"433,472","65,659,109,000","15,363,016,000",430%,"35,442",17.72
+72,722310,Food service contractors,"3,550","28,476","628,796","45,317,422,000","14,612,376,000",310%,"23,239",11.62
+72,722515,Snack and nonalcoholic beverage bars,"46,994","63,247","653,167","38,811,460,000","9,891,022,000",390%,"15,143",7.57
+72,722410,Drinking places (alcoholic beverages),"39,057","39,859","365,323","23,936,346,000","6,005,694,000",400%,"16,439",8.22
+72,722320,Caterers,"11,299","11,594","156,289","10,933,749,000","3,279,567,000",330%,"20,984",10.49
+72,722514,"Cafeterias, grill buffets, and buffets","4,825","5,771","110,568","6,457,388,000","1,677,945,000",380%,"15,176",7.59
+72,721214,Recreational and vacation camps (except campgrounds),"2,732","3,056","25,278","3,250,784,000","957,967,000",340%,"37,897",18.95
+72,721211,RV (recreational vehicle) parks and campgrounds,"4,227","4,513","22,241","3,086,146,000","645,405,000",480%,"29,019",14.51
+72,721310,Rooming and boarding houses,"1,706","1,887","9,658","1,745,497,000","237,363,000",740%,"24,577",12.29
+72,722330,Mobile food services,"5,189","5,211","13,678","1,179,202,000","253,777,000",460%,"18,554",9.28
+72,721191,Bed-and-breakfast inns,"2,882","2,925","14,088","1,055,097,000","270,849,000",390%,"19,226",9.61
+72,721199,All other traveler accommodation,"1,364","1,418","8,386","881,677,000","222,209,000",400%,"26,498",13.25
+81,813211,Grantmaking foundations,"11,549","11,968","97,475","83,619,616,000","6,044,664,000",1380%,"62,012",31.01
+81,811111,General automotive repair,"78,745","82,749","354,876","50,120,546,000","13,472,222,000",370%,"37,963",18.98
+81,811310,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,"19,938","21,767","202,493","39,257,982,000","11,315,288,000",350%,"55,880",27.94
+81,811121,"Automotive body, paint, and interior repair and maintenance","32,811","35,516","247,415","38,669,502,000","11,464,400,000",340%,"46,337",23.17
+81,813990,"Other similar organizations (except business, professional, labor, and political organizations)","19,699","20,062","142,619","29,076,311,000","6,075,861,000",480%,"42,602",21.3
+81,813910,Business associations,"15,421","16,007","116,189","27,606,738,000","8,831,615,000",310%,"76,011",38.01
+81,812112,Beauty salons,"66,184","78,887","432,037","22,636,143,000","9,824,364,000",230%,"22,740",11.37
+81,813920,Professional organizations,"6,477","6,856","89,047","22,275,161,000","7,025,747,000",320%,"78,899",39.45
+81,813212,Voluntary health organizations,"3,178","4,336","54,552","20,580,712,000","3,676,918,000",560%,"67,402",33.7
+81,813410,Civic and social organizations,"24,219","25,833","220,362","17,833,533,000","5,023,702,000",350%,"22,797",11.4
+81,813219,Other grantmaking and giving services,"3,607","3,788","34,641","15,676,149,000","1,741,698,000",900%,"50,279",25.14
+81,812210,Funeral homes and funeral services,"11,296","15,850","108,215","14,677,403,000","3,658,313,000",400%,"33,806",16.9
+81,813312,"Environment, conservation and wildlife organizations","6,228","7,813","77,377","13,031,769,000","3,410,211,000",380%,"44,073",22.04
+81,813319,Other social advocacy organizations,"6,232","6,770","57,030","11,920,194,000","3,019,119,000",390%,"52,939",26.47
+81,812990,All other personal services,"15,364","15,836","64,283","10,143,115,000","2,141,654,000",470%,"33,316",16.66
+81,813311,Human rights organizations,"2,768","3,390","48,037","10,135,423,000","2,218,982,000",460%,"46,193",23.1
+81,811192,Car washes,"13,890","16,381","161,797","9,723,877,000","3,139,018,000",310%,"19,401",9.7
+81,812930,Parking lots and garages,"2,889","12,120","145,351","9,643,553,000","2,916,212,000",330%,"20,063",10.03
+81,812332,Industrial launderers,373,"1,541","66,516","9,087,755,000","2,628,125,000",350%,"39,511",19.76
+81,811219,Other electronic and precision equipment repair and maintenance,"2,750","3,378","33,394","8,127,443,000","1,983,466,000",410%,"59,396",29.7
+81,812199,Other personal care services,"20,154","22,483","138,582","8,071,037,000","2,773,420,000",290%,"20,013",10.01
+81,812320,Drycleaning and laundry services (except coin-operated),"18,088","20,657","132,026","7,972,006,000","2,694,612,000",300%,"20,410",10.21
+81,812113,Nail salons,"24,848","24,931","102,348","6,239,083,000","1,843,439,000",340%,"18,011",9.01
+81,811191,Automotive oil change and lubrication shops,"4,466","8,258","60,295","5,608,786,000","1,472,565,000",380%,"24,423",12.21
+81,812910,Pet care (except veterinary) services,"18,147","18,464","108,973","5,354,319,000","2,127,615,000",250%,"19,524",9.76
+81,812331,Linen supply,551,857,"50,842","4,648,741,000","1,669,230,000",280%,"32,832",16.42
+81,811212,Computer and office machine repair and maintenance,"5,030","5,406","34,641","4,611,564,000","1,549,485,000",300%,"44,730",22.37
+81,812310,Coin-operated laundries and drycleaners,"9,698","10,763","40,165","4,339,907,000","751,116,000",580%,"18,701",9.35
+81,811122,Automotive glass replacement shops,"4,740","6,026","30,259","4,311,515,000","1,122,252,000",380%,"37,088",18.54
+81,812220,Cemeteries and crematories,"3,879","5,226","32,504","4,182,682,000","1,273,805,000",330%,"39,189",19.59
+81,811490,Other personal and household goods repair and maintenance,"9,761","10,460","36,248","3,911,543,000","1,157,940,000",340%,"31,945",15.97
+81,811412,Appliance repair and maintenance,"4,355","4,535","22,786","3,578,730,000","802,435,000",450%,"35,216",17.61
+81,811213,Communication equipment repair and maintenance,"1,711","1,944","15,272","2,908,908,000","725,431,000",400%,"47,501",23.75
+81,811113,Automotive transmission repair,"4,253","4,365","16,397","2,209,201,000","618,465,000",360%,"37,718",18.86
+81,811198,All other automotive repair and maintenance,"3,548","3,916","16,900","2,100,439,000","550,684,000",380%,"32,585",16.29
+81,811118,Other automotive mechanical and electrical repair and maintenance,"3,030","3,389","14,919","1,943,548,000","523,138,000",370%,"35,065",17.53
+81,812191,Diet and weight reducing centers,"1,296","2,982","25,273","1,780,294,000","442,699,000",400%,"17,517",8.76
+81,812921,Photofinishing laboratories (except one-hour),405,418,"5,479","1,537,783,000","336,998,000",460%,"61,507",30.75
+81,811211,Consumer electronics repair and maintenance,"1,717","1,815","13,575","1,416,115,000","495,863,000",290%,"36,528",18.26
+81,811420,Reupholstery and furniture repair,"3,596","3,617","12,537","1,105,860,000","387,265,000",290%,"30,890",15.45
+81,812111,Barber shops,"4,588","5,166","20,922","1,048,147,000","481,926,000",220%,"23,034",11.52
+81,811112,Automotive exhaust system repair,"1,530","1,585","5,107","613,935,000","156,713,000",390%,"30,686",15.34
+81,811411,Home and garden equipment repair and maintenance,"1,640","1,659","4,367","562,880,000","115,049,000",490%,"26,345",13.17
+81,811430,Footwear and leather goods repair,923,956,"2,343","199,713,000","59,660,000",330%,"25,463",12.73
+81,812922,One-hour photofinishing,116,119,365,"28,038,000","7,701,000",360%,"21,099",10.55
